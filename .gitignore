@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.json
+*.csv
+*.pkl
+*.pickle
+*.index
+
+# Re-include the base knowledge file
+!disaster_knowledge.csv
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
