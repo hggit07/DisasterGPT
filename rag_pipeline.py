@@ -292,7 +292,8 @@ def get_rag_response(query, context):
     """
     groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
-    prompt = f"""CONTEXT:
+    prompt = f""" Answer the question only from provided context as far as possible. Don't refer to provided context in response. 
+                CONTEXT:
                 {context}
  
                 QUESTION:
