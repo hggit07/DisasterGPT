@@ -12,6 +12,7 @@ __pycache__/
 
 # Re-include the base knowledge file
 !disaster_knowledge.csv
+!classified_disaster_news.json
 
 # Jupyter Notebook cache
 .ipynb_checkpoints/
