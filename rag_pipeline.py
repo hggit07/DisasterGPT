@@ -71,10 +71,10 @@ def preprocess(text):
         lemmatized_tokens.append(lemmatizer.lemmatize(word,wn_tagger(tag)))
     return "".join(lemmatized_tokens)
 
-# Data Loading
 def load_knowledge(st_object):
     """
-    Loads static facts and classified news, returning TWO separate dataframes.
+    Loads static facts, classified news, AND alerts.
+    Returns THREE separate dataframes.
     """
     download_nltk_data_once() # NLTK check
     
@@ -92,18 +92,26 @@ def load_knowledge(st_object):
         print("Classified news file not found or is empty. Proceeding with facts only.")
         news_df = pd.DataFrame(columns=['title', 'content', 'full_text', 'matched_keyword'])
         
-    return facts_df, news_df
+    # GDACS Alerts
+    try:
+        alerts_df = pd.read_json('gdacs_alerts.json')
+        alerts_df = alerts_df.dropna(subset=['full_text'])
+    except ValueError:
+        print("GDACS alerts file not found or is empty.")
+        alerts_df = pd.DataFrame(columns=['full_text'])
+        
+    return facts_df, news_df, alerts_df
 
-def build_or_load_index(facts_df, news_df, index_dir="vector_indices"):
+def build_or_load_index(facts_df, news_df, alerts_df, index_dir="vector_indices"): # <-- ADD alerts_df
     """
-    Builds or loads a separate FAISS index for 'facts' and each news category.
+    Builds or loads a separate FAISS index for 'facts', 'alerts', and each news category.
     """
     os.makedirs(index_dir, exist_ok=True)
     
     indices = {}
     knowledge_bases = {}
     
-    # Index for static 'facts'
+    # Index for static 'facts' (No changes to this block)
     facts_index_path = os.path.join(index_dir, "facts.index")
     facts_data_path = os.path.join(index_dir, "facts_data.pkl")
     
@@ -127,12 +135,39 @@ def build_or_load_index(facts_df, news_df, index_dir="vector_indices"):
         with open(facts_data_path, 'wb') as f:
             pickle.dump(knowledge_bases['facts'], f)
 
-    # Index for 'news' (one per category)
+    # Index for 'alerts'
+    alerts_index_path = os.path.join(index_dir, "alerts.index")
+    alerts_data_path = os.path.join(index_dir, "alerts_data.pkl")
+    
+    if os.path.exists(alerts_index_path):
+        print("Loading existing 'alerts' index...")
+        indices['alerts'] = faiss.read_index(alerts_index_path)
+        with open(alerts_data_path, 'rb') as f:
+            knowledge_bases['alerts'] = pickle.load(f)
+    else:
+        print("Building 'alerts' index...")
+        knowledge_bases['alerts'] = alerts_df['full_text'].reset_index(drop=True)
+        if knowledge_bases['alerts'].empty:
+            print("Skipping empty 'alerts' index build.")
+        else:
+            processed_text = knowledge_bases['alerts'].apply(preprocess)
+            embeddings = tfmr.encode(processed_text.tolist())
+            
+            d = embeddings.shape[1]
+            index = faiss.IndexFlatL2(d)
+            index.add(np.ascontiguousarray(embeddings.astype('float32')))
+            
+            indices['alerts'] = index
+            faiss.write_index(index, alerts_index_path)
+            with open(alerts_data_path, 'wb') as f:
+                pickle.dump(knowledge_bases['alerts'], f)
+
+    # Index for 'news'
     news_categories = news_df['matched_keyword'].unique()
     
     for category in news_categories:
         if category == 'no_category':
-            continue # Skip unclassified articles
+            continue 
         
         category_index_path = os.path.join(index_dir, f"news_{category}.index")
         category_data_path = os.path.join(index_dir, f"news_{category}_data.pkl")
@@ -172,23 +207,22 @@ def intelligent_query_analyzer(query):
     """
     print(f"Analyzing complex query: {query}")
     
-    # We use a smaller, faster model for this simple task
-    # This is "lazily" instantiated to avoid API key errors
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
     
-    # We give the LLM a "persona" and clear instructions
-    system_prompt = """You are an expert query routing assistant. Your job is to analyze a user's question about disasters and generate a JSON "search_plan".
+    system_prompt = """You are an expert query routing assistant for DisasterGPT. Your job is to analyze a user's question about disasters and generate a JSON "search_plan".
 
-You have two types of indexes you can search:
-1.  `"facts"`: This index contains static, evergreen "what-to-do" information. Use this for questions about preparation, safety procedures, definitions, first aid, warning signs, etc.
-2.  `"news"`: This index contains real-time news articles. Use this for questions about "what's happening," "latest updates," or events in specific locations.
+You have THREE types of indexes you can search:
+1.  `"alerts"`: (PRIORITY 1) This index contains real-time, up-to-the-minute GDACS alerts. Use this FIRST for questions about "what's happening right now," "latest alerts," "new events," or specific recent events in a location. This data is from the last 7 days.
+2.  `"news"`: (PRIORITY 2) This index contains news articles. Use this for questions about "what's happening" in general, "latest updates," or events in specific locations. This data is from the last ~28 days.
+3.  `"facts"`: (PRIORITY 3) This index contains static, evergreen "what-to-do" information. Use this for questions about preparation, safety procedures, definitions, first aid, warning signs, etc.
 
 Your task is to:
 1.  Break the user's question into 1-3 sub-queries.
-2.  For each sub-query, decide which index to search (`"facts"` or `"news"`).
+2.  For each sub-query, decide which index to search (`"alerts"`, `"facts"`, or a news category like `"earthquake"`, `"flood"`, etc.).
 3.  If a sub-query is for "news," also detect the disaster type (e.g., 'earthquake', 'flood', 'wildfire') and use that as the index name.
-4.  If no disaster type is mentioned for a news query, default to `"facts"`.
-5.  Return ONLY a valid JSON object in the format: `{"search_plan": [{"sub_query": "...", "index_to_search": "..."}]}`
+4.  If a query is about a *recent* event (e.g., "earthquake in Myanmar"), you should search BOTH `"alerts"` AND the news category (e.g., `"earthquake"`).
+5.  If no disaster type is mentioned for a news/alert query, default to `"alerts"` and `"facts"`.
+6.  Return ONLY a valid JSON object in the format: `{"search_plan": [{"sub_query": "...", "index_to_search": "..."}]}`
 
 Example 1:
 User: "What are the health risks of a wildfire and how do I prepare for one?"
@@ -203,6 +237,7 @@ Example 2:
 User: "What's the latest on the earthquake in Myanmar and what should I do?"
 {
   "search_plan": [
+    {"sub_query": "latest alerts on earthquake in Myanmar", "index_to_search": "alerts"},
     {"sub_query": "latest news on earthquake in Myanmar", "index_to_search": "earthquake"},
     {"sub_query": "what to do during an earthquake", "index_to_search": "facts"}
   ]
@@ -212,7 +247,16 @@ Example 3:
 User: "Tell me about hurricanes."
 {
   "search_plan": [
-    {"sub_query": "what is a hurricane", "index_to_search": "facts"}
+    {"sub_query": "what is a hurricane", "index_to_search": "facts"},
+    {"sub_query": "latest hurricane alerts", "index_to_search": "alerts"}
+  ]
+}
+
+Example 4:
+User: "Are there any new disasters happening right now?"
+{
+  "search_plan": [
+    {"sub_query": "latest global disaster alerts", "index_to_search": "alerts"}
   ]
 }
 """
@@ -225,12 +269,11 @@ User: "Tell me about hurricanes."
             ],
             model="llama-3.1-8b-instant",
             temperature=0,
-            response_format={"type": "json_object"}, # Ask Groq for JSON directly
+            response_format={"type": "json_object"}, 
         )
         response_text = llm_eval.choices[0].message.content
         search_plan_data = json.loads(response_text)
         
-        # Basic validation
         if 'search_plan' in search_plan_data and isinstance(search_plan_data['search_plan'], list):
             return search_plan_data['search_plan']
         else:
@@ -238,8 +281,11 @@ User: "Tell me about hurricanes."
             
     except Exception as e:
         print(f"Error in intelligent_query_analyzer: {e}. Defaulting to basic 'facts' search.")
-        # Fallback for any error: just search 'facts' index
-        return [{"sub_query": query, "index_to_search": "facts"}]
+        # Fallback for any error: search 'facts' and 'alerts'
+        return [
+            {"sub_query": query, "index_to_search": "facts"},
+            {"sub_query": query, "index_to_search": "alerts"}
+        ]
 
 def retrieve_context(search_plan, indices, knowledge_bases, k=3):
     """
@@ -353,7 +399,7 @@ def get_youtube_video_link(query):
             return None
 
         youtube = build('youtube', 'v3', developerKey=api_key)
-        search_query = f"{query} tutorial how-to"
+        search_query = f"{query} disaster preparedness safety guide"
 
         request = youtube.search().list(
             q=search_query,

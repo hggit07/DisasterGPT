@@ -1,0 +1,44 @@
+name: Scrape GDACS Alerts
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '*/5 * * * *' # Runs at the top of every hour
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Needed to commit the new JSON file
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # Match your project's Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run Alert Scraper
+        run: |
+          python alert_scraper.py
+
+      - name: Commit and push gdacs_alerts.json
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add gdacs_alerts.json
+          # Check if there are changes to commit
+          if git diff-index --quiet HEAD -- gdacs_alerts.json; then
+            echo "No changes to gdacs_alerts.json. Skipping commit."
+          else
+            git commit -m "Update GDACS alerts knowledge base"
+            git push
+          fi

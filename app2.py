@@ -65,8 +65,8 @@ def load_data_and_index():
         def rerun(self): pass
     
     st.spinner("Loading knowledge base... (This happens once per session)")
-    facts_df, news_df = load_knowledge(MockST()) 
-    indices, knowledge_bases = build_or_load_index(facts_df, news_df)
+    facts_df, news_df, alerts_df = load_knowledge(MockST())
+    indices, knowledge_bases = build_or_load_index(facts_df, news_df, alerts_df)
     st.spinner("Knowledge base loaded!")
     return indices, knowledge_bases
 

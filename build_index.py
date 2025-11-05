@@ -31,10 +31,10 @@ class MockST:
 
 # --- 3. Run the Build Process ---
 print("Loading knowledge base...")
-facts_df, news_df = load_knowledge(MockST())
+facts_df, news_df, alerts_df = load_knowledge(MockST())
 
 print("\nBuilding FAISS index... This will take 2-5 minutes. Please wait.")
-build_or_load_index(facts_df, news_df)
+build_or_load_index(facts_df, news_df, alerts_df)
 
 print("\n--- Index build complete! 'knowledge.index' is saved. ---")
 print("You can now safely run: streamlit run app.py")
