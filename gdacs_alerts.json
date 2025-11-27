@@ -1,6 +1,6 @@
 [
     {
-        "guid": 2949243314282367302,
+        "guid": -263442130624693125,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512158&episodeid=1673985&eventtype=EQ",
         "published": "2025-11-27T06:03:11",
@@ -12,7 +12,19 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": -4090017377506356169,
+        "guid": 8381265395683792249,
+        "title": "Tropical Cyclone FIVE-25",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001238&episodeid=2&eventtype=TC",
+        "published": "2025-11-27T00:00:00",
+        "summary": "Tropical Cyclone FIVE-25",
+        "event_type": "TC",
+        "alert_level": "Orange",
+        "country": "Sri Lanka, India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone FIVE-25\nEvent Type: TC\nAlert Level: Orange\nCountry: Sri Lanka, India\nDetails: Tropical Cyclone FIVE-25"
+    },
+    {
+        "guid": -551927482931291175,
         "title": "Earthquake in Mariana Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512161&episodeid=1673984&eventtype=EQ",
         "published": "2025-11-27T05:43:40",
@@ -24,7 +36,7 @@
         "full_text": "GDACS Alert: Earthquake in Mariana Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Mariana Islands\nDetails: Earthquake in Mariana Islands"
     },
     {
-        "guid": -5305995066116248028,
+        "guid": 5235968740724137706,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512156&episodeid=1673980&eventtype=EQ",
         "published": "2025-11-27T05:32:44",
@@ -36,7 +48,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -966449037631431839,
+        "guid": 4576442462235356263,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512141&episodeid=1673963&eventtype=EQ",
         "published": "2025-11-27T04:56:26",
@@ -48,7 +60,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": 3950758132944154064,
+        "guid": 1451657348100538231,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512140&episodeid=1673958&eventtype=EQ",
         "published": "2025-11-27T04:41:34",
@@ -60,7 +72,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": 3465932160379531644,
+        "guid": -3466810551825667982,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512136&episodeid=1673953&eventtype=EQ",
         "published": "2025-11-27T03:10:48",
@@ -72,7 +84,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -5440820425483680585,
+        "guid": 5739329104120746424,
         "title": "Earthquake in Greece",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512112&episodeid=1673924&eventtype=EQ",
         "published": "2025-11-27T00:08:52",
@@ -84,7 +96,7 @@
         "full_text": "GDACS Alert: Earthquake in Greece\nEvent Type: EQ\nAlert Level: Green\nCountry: Greece\nDetails: Earthquake in Greece"
     },
     {
-        "guid": -5680786559926429354,
+        "guid": -4286213087833697107,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512111&episodeid=1673923&eventtype=EQ",
         "published": "2025-11-27T00:00:25",
@@ -96,19 +108,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -3370622885790939894,
-        "title": "Tropical Cyclone FIVE-25",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001238&episodeid=1&eventtype=TC",
-        "published": "2025-11-27T00:00:00",
-        "summary": "Tropical Cyclone FIVE-25",
-        "event_type": "TC",
-        "alert_level": "Orange",
-        "country": "Sri Lanka, India",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone FIVE-25\nEvent Type: TC\nAlert Level: Orange\nCountry: Sri Lanka, India\nDetails: Tropical Cyclone FIVE-25"
-    },
-    {
-        "guid": 2705710123385891950,
+        "guid": -4879944782637705963,
         "title": "Tropical Cyclone KOTO-25",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001236&episodeid=10&eventtype=TC",
         "published": "2025-11-24T18:00:00",
@@ -120,7 +120,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone KOTO-25\nEvent Type: TC\nAlert Level: Green\nCountry: Viet Nam, Philippines\nDetails: Tropical Cyclone KOTO-25"
     },
     {
-        "guid": -498072761079018238,
+        "guid": -6906927774209974221,
         "title": "Tropical Cyclone SENYAR-25",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001237&episodeid=7&eventtype=TC",
         "published": "2025-11-25T12:00:00",
@@ -132,7 +132,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone SENYAR-25\nEvent Type: TC\nAlert Level: Green\nCountry: Indonesia, Malaysia\nDetails: Tropical Cyclone SENYAR-25"
     },
     {
-        "guid": 4101535683143510336,
+        "guid": -3987082916724777066,
         "title": "Earthquake in Celebes Sea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512105&episodeid=1673917&eventtype=EQ",
         "published": "2025-11-26T23:00:42",
@@ -144,7 +144,7 @@
         "full_text": "GDACS Alert: Earthquake in Celebes Sea\nEvent Type: EQ\nAlert Level: Green\nCountry: Celebes Sea\nDetails: Earthquake in Celebes Sea"
     },
     {
-        "guid": -6920783065614286742,
+        "guid": -632588158402499531,
         "title": "Earthquake in Fiji",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512093&episodeid=1673901&eventtype=EQ",
         "published": "2025-11-26T20:41:13",
@@ -156,7 +156,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji\nDetails: Earthquake in Fiji"
     },
     {
-        "guid": -5282291323723740841,
+        "guid": -2217569944645969894,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512089&episodeid=1673898&eventtype=EQ",
         "published": "2025-11-26T19:54:23",
@@ -168,7 +168,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -8220571761448153134,
+        "guid": 7450564875709253776,
         "title": "Earthquake in New Caledonia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512080&episodeid=1673888&eventtype=EQ",
         "published": "2025-11-26T18:03:52",
@@ -180,7 +180,7 @@
         "full_text": "GDACS Alert: Earthquake in New Caledonia\nEvent Type: EQ\nAlert Level: Green\nCountry: New Caledonia\nDetails: Earthquake in New Caledonia"
     },
     {
-        "guid": -5838791547050270669,
+        "guid": 4227949619543546557,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512072&episodeid=1673880&eventtype=EQ",
         "published": "2025-11-26T16:43:57",
@@ -192,7 +192,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": -220950901715837075,
+        "guid": 7154586831695437703,
         "title": "Earthquake in Northeast Of Taiwan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512042&episodeid=1673846&eventtype=EQ",
         "published": "2025-11-26T11:55:31",
@@ -204,7 +204,7 @@
         "full_text": "GDACS Alert: Earthquake in Northeast Of Taiwan\nEvent Type: EQ\nAlert Level: Green\nCountry: Northeast Of Taiwan\nDetails: Earthquake in Northeast Of Taiwan"
     },
     {
-        "guid": 7798258144622880214,
+        "guid": -5203802636797469673,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512039&episodeid=1673972&eventtype=EQ",
         "published": "2025-11-26T10:59:27",
@@ -216,7 +216,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -4048773922546518846,
+        "guid": -4235967740593161767,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512035&episodeid=1673971&eventtype=EQ",
         "published": "2025-11-26T10:49:14",
@@ -228,7 +228,7 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": 7036143921292420371,
+        "guid": -2653562949147460940,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512027&episodeid=1673831&eventtype=EQ",
         "published": "2025-11-26T09:49:45",
@@ -240,7 +240,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": -3641091336916898293,
+        "guid": 6339337006164097824,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512030&episodeid=1673832&eventtype=EQ",
         "published": "2025-11-26T09:42:05",
@@ -252,7 +252,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": -6291554089082176050,
+        "guid": -3278871860826147188,
         "title": "Eruption  Bezymianny",
         "link": "https://www.gdacs.org/report.aspx?eventid=1000127&episodeid=1&eventtype=VO",
         "published": "2025-11-26T09:00:00",
@@ -264,7 +264,7 @@
         "full_text": "GDACS Alert: Eruption  Bezymianny\nEvent Type: VO\nAlert Level: Green\nCountry: Russia\nDetails: Eruption  Bezymianny"
     },
     {
-        "guid": 7350618973770335704,
+        "guid": -7056627529664093319,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512022&episodeid=1673823&eventtype=EQ",
         "published": "2025-11-26T08:24:27",
@@ -276,7 +276,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -7117590729925240493,
+        "guid": -5249174984942701761,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512006&episodeid=1673812&eventtype=EQ",
         "published": "2025-11-26T07:11:35",
@@ -288,7 +288,7 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": 4137263886433944962,
+        "guid": -3957484416791872409,
         "title": "Earthquake in North Of Macquarie Island",
         "link": "https://www.gdacs.org/report.aspx?eventid=1512012&episodeid=1673809&eventtype=EQ",
         "published": "2025-11-26T07:07:20",
@@ -300,7 +300,7 @@
         "full_text": "GDACS Alert: Earthquake in North Of Macquarie Island\nEvent Type: EQ\nAlert Level: Green\nCountry: North Of Macquarie Island\nDetails: Earthquake in North Of Macquarie Island"
     },
     {
-        "guid": 3058845006374963024,
+        "guid": -5455318146320368132,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511987&episodeid=1673782&eventtype=EQ",
         "published": "2025-11-26T05:28:38",
@@ -312,7 +312,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": 8510790700565417353,
+        "guid": -268166932710440449,
         "title": "Earthquake in Tonga",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511976&episodeid=1673767&eventtype=EQ",
         "published": "2025-11-26T02:59:12",
@@ -324,7 +324,7 @@
         "full_text": "GDACS Alert: Earthquake in Tonga\nEvent Type: EQ\nAlert Level: Green\nCountry: Tonga\nDetails: Earthquake in Tonga"
     },
     {
-        "guid": -5250537341921832031,
+        "guid": -8405684112391304663,
         "title": "Flood in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103494&episodeid=32&eventtype=FL",
         "published": "2025-09-09T01:00:00",
@@ -336,7 +336,7 @@
         "full_text": "GDACS Alert: Flood in Indonesia\nEvent Type: FL\nAlert Level: Orange\nCountry: Indonesia\nDetails: Flood in Indonesia"
     },
     {
-        "guid": -6031178733266521498,
+        "guid": -879841608942064537,
         "title": "Flood in Italy",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103563&episodeid=12&eventtype=FL",
         "published": "2025-10-15T01:00:00",
@@ -348,7 +348,7 @@
         "full_text": "GDACS Alert: Flood in Italy\nEvent Type: FL\nAlert Level: Green\nCountry: Italy\nDetails: Flood in Italy"
     },
     {
-        "guid": -8232954240789385127,
+        "guid": -1629238766027350844,
         "title": "Flood in Israel",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103629&episodeid=1&eventtype=FL",
         "published": "2025-11-24T01:00:00",
@@ -360,7 +360,7 @@
         "full_text": "GDACS Alert: Flood in Israel\nEvent Type: FL\nAlert Level: Green\nCountry: Israel\nDetails: Flood in Israel"
     },
     {
-        "guid": 615294092823233817,
+        "guid": 883649298405775965,
         "title": "Flood in Jordan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103630&episodeid=1&eventtype=FL",
         "published": "2025-11-24T01:00:00",
@@ -372,7 +372,7 @@
         "full_text": "GDACS Alert: Flood in Jordan\nEvent Type: FL\nAlert Level: Green\nCountry: Jordan\nDetails: Flood in Jordan"
     },
     {
-        "guid": 2560694192562813552,
+        "guid": 1080824478128599257,
         "title": "Flood in Lebanon",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103631&episodeid=1&eventtype=FL",
         "published": "2025-11-24T01:00:00",
@@ -384,7 +384,7 @@
         "full_text": "GDACS Alert: Flood in Lebanon\nEvent Type: FL\nAlert Level: Green\nCountry: Lebanon\nDetails: Flood in Lebanon"
     },
     {
-        "guid": 7544956890672976750,
+        "guid": 16630051575116275,
         "title": "Earthquake in Papua New Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511958&episodeid=1673774&eventtype=EQ",
         "published": "2025-11-26T00:07:25",
@@ -396,7 +396,7 @@
         "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
     },
     {
-        "guid": 7581810715244402040,
+        "guid": 7386208140607953251,
         "title": "Earthquake in East Of Kuril Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511947&episodeid=1673737&eventtype=EQ",
         "published": "2025-11-25T22:26:53",
@@ -408,7 +408,7 @@
         "full_text": "GDACS Alert: Earthquake in East Of Kuril Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: East Of Kuril Islands\nDetails: Earthquake in East Of Kuril Islands"
     },
     {
-        "guid": -5290973417172314575,
+        "guid": 3783722648010451384,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511939&episodeid=1673726&eventtype=EQ",
         "published": "2025-11-25T20:40:40",
@@ -420,7 +420,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": 8773318853155848813,
+        "guid": -8058092505081352946,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511926&episodeid=1673711&eventtype=EQ",
         "published": "2025-11-25T17:16:21",
@@ -432,7 +432,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 941249230540706034,
+        "guid": 5600415249266686185,
         "title": "Earthquake in Southeast Of Loyalty Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511917&episodeid=1673699&eventtype=EQ",
         "published": "2025-11-25T15:52:04",
@@ -444,7 +444,7 @@
         "full_text": "GDACS Alert: Earthquake in Southeast Of Loyalty Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Southeast Of Loyalty Islands\nDetails: Earthquake in Southeast Of Loyalty Islands"
     },
     {
-        "guid": -3969899423424834706,
+        "guid": 475121564276144242,
         "title": "Earthquake in Western Indian-Antarctic Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511925&episodeid=1673708&eventtype=EQ",
         "published": "2025-11-25T15:19:24",
@@ -456,7 +456,7 @@
         "full_text": "GDACS Alert: Earthquake in Western Indian-Antarctic Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Western Indian-Antarctic Ridge\nDetails: Earthquake in Western Indian-Antarctic Ridge"
     },
     {
-        "guid": 7713030569169561232,
+        "guid": -8300367659679980948,
         "title": "Earthquake in Southeast Of Loyalty Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511906&episodeid=1673691&eventtype=EQ",
         "published": "2025-11-25T14:12:21",
@@ -468,7 +468,7 @@
         "full_text": "GDACS Alert: Earthquake in Southeast Of Loyalty Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Southeast Of Loyalty Islands\nDetails: Earthquake in Southeast Of Loyalty Islands"
     },
     {
-        "guid": -3230425400441691201,
+        "guid": 5901425602558671150,
         "title": "Flood in South Africa",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103624&episodeid=2&eventtype=FL",
         "published": "2025-11-23T01:00:00",
@@ -480,7 +480,7 @@
         "full_text": "GDACS Alert: Flood in South Africa\nEvent Type: FL\nAlert Level: Green\nCountry: South Africa\nDetails: Flood in South Africa"
     },
     {
-        "guid": -2860325777982365030,
+        "guid": -98033380794751431,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511874&episodeid=1673655&eventtype=EQ",
         "published": "2025-11-25T10:45:20",
@@ -492,7 +492,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": 6423076803578538693,
+        "guid": -6568889183448580430,
         "title": "Earthquake in Peru",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511869&episodeid=1673648&eventtype=EQ",
         "published": "2025-11-25T09:57:04",
@@ -504,7 +504,7 @@
         "full_text": "GDACS Alert: Earthquake in Peru\nEvent Type: EQ\nAlert Level: Green\nCountry: Peru\nDetails: Earthquake in Peru"
     },
     {
-        "guid": 5108074372149025155,
+        "guid": 3153506915955808752,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511861&episodeid=1673641&eventtype=EQ",
         "published": "2025-11-25T09:01:18",
@@ -516,7 +516,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": -5237501930351742535,
+        "guid": 6137374597555925839,
         "title": "Earthquake in Off East Coast Of Honshu, Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511858&episodeid=1673633&eventtype=EQ",
         "published": "2025-11-25T07:59:28",
@@ -528,7 +528,7 @@
         "full_text": "GDACS Alert: Earthquake in Off East Coast Of Honshu, Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Off East Coast Of Honshu, Japan\nDetails: Earthquake in Off East Coast Of Honshu, Japan"
     },
     {
-        "guid": 1054827403633166688,
+        "guid": 886956528599057853,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511838&episodeid=1673612&eventtype=EQ",
         "published": "2025-11-25T04:53:20",
@@ -540,7 +540,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": 4037964338646524557,
+        "guid": -3015148689463268031,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1511837&episodeid=1673610&eventtype=EQ",
         "published": "2025-11-25T04:47:30",
@@ -552,7 +552,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -6811918010986737110,
+        "guid": -90483512203199703,
         "title": "Flood in France",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103607&episodeid=3&eventtype=FL",
         "published": "2025-11-14T01:00:00",
@@ -564,7 +564,7 @@
         "full_text": "GDACS Alert: Flood in France\nEvent Type: FL\nAlert Level: Green\nCountry: France\nDetails: Flood in France"
     },
     {
-        "guid": 6290523459700797673,
+        "guid": -2760572537099160276,
         "title": "Drought in Algeria",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018094&episodeid=3&eventtype=DR",
         "published": "2025-08-21T00:00:00",
@@ -576,7 +576,7 @@
         "full_text": "GDACS Alert: Drought in Algeria\nEvent Type: DR\nAlert Level: Green\nCountry: Algeria\nDetails: Drought in Algeria"
     },
     {
-        "guid": -1130149373708463144,
+        "guid": -1305499544990570923,
         "title": "Drought in Spain, Portugal",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018091&episodeid=7&eventtype=DR",
         "published": "2025-07-21T00:00:00",
@@ -588,7 +588,7 @@
         "full_text": "GDACS Alert: Drought in Spain, Portugal\nEvent Type: DR\nAlert Level: Green\nCountry: Spain, Portugal\nDetails: Drought in Spain, Portugal"
     },
     {
-        "guid": -3787370374623393982,
+        "guid": 3806411653320708258,
         "title": "Drought in Canada, United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018093&episodeid=6&eventtype=DR",
         "published": "2025-08-21T00:00:00",
