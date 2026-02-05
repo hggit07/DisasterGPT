@@ -1,6 +1,6 @@
 [
     {
-        "guid": -4190209571652935047,
+        "guid": -5824188417994745664,
         "title": "Flood in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103742&episodeid=3&eventtype=FL",
         "published": "2026-01-28T01:00:00",
@@ -12,7 +12,19 @@
         "full_text": "GDACS Alert: Flood in Australia\nEvent Type: FL\nAlert Level: Green\nCountry: Australia\nDetails: Flood in Australia"
     },
     {
-        "guid": -4812977729132624090,
+        "guid": -7665048531520645948,
+        "title": "Earthquake in Indonesia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1523039&episodeid=1686188&eventtype=EQ",
+        "published": "2026-02-05T15:08:36",
+        "summary": "Earthquake in Indonesia",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Indonesia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
+    },
+    {
+        "guid": 3589203308462259248,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1523017&episodeid=1686165&eventtype=EQ",
         "published": "2026-02-05T12:49:28",
@@ -24,7 +36,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 4647751017738496522,
+        "guid": 3261925095641741292,
         "title": "Tropical Cyclone PENHA-26",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001255&episodeid=7&eventtype=TC",
         "published": "2026-02-04T00:00:00",
@@ -36,7 +48,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone PENHA-26\nEvent Type: TC\nAlert Level: Green\nCountry: Philippines\nDetails: Tropical Cyclone PENHA-26"
     },
     {
-        "guid": 7116001474803526676,
+        "guid": -2141489034274533548,
         "title": "Earthquake in Kazakhstan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1523001&episodeid=1686149&eventtype=EQ",
         "published": "2026-02-05T08:39:41",
@@ -48,7 +60,7 @@
         "full_text": "GDACS Alert: Earthquake in Kazakhstan\nEvent Type: EQ\nAlert Level: Green\nCountry: Kazakhstan\nDetails: Earthquake in Kazakhstan"
     },
     {
-        "guid": -1784631574960478277,
+        "guid": 6791893353129280127,
         "title": "Earthquake in Papua New Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522998&episodeid=1686143&eventtype=EQ",
         "published": "2026-02-05T07:21:24",
@@ -60,7 +72,7 @@
         "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
     },
     {
-        "guid": 6502025565861703067,
+        "guid": -1557177848035686228,
         "title": "Flood in Peru",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103751&episodeid=1&eventtype=FL",
         "published": "2026-02-03T01:00:00",
@@ -72,7 +84,7 @@
         "full_text": "GDACS Alert: Flood in Peru\nEvent Type: FL\nAlert Level: Green\nCountry: Peru\nDetails: Flood in Peru"
     },
     {
-        "guid": -7440939999368464154,
+        "guid": -3784268936663361785,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522952&episodeid=1686097&eventtype=EQ",
         "published": "2026-02-05T00:19:46",
@@ -84,21 +96,9 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": 992181464071107070,
+        "guid": -2196664846518150420,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027325&episodeid=3&eventtype=WF",
-        "published": "2026-02-01T00:00:00",
-        "summary": "Forest fires in Central African Republic",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Central African Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
-    },
-    {
-        "guid": 2392761583279937627,
-        "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027326&episodeid=5&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027335&episodeid=1&eventtype=WF",
         "published": "2026-01-31T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -108,7 +108,67 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 630552857031252700,
+        "guid": 7793905533518469778,
+        "title": "Forest fires in Central African Republic",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027336&episodeid=1&eventtype=WF",
+        "published": "2026-01-30T00:00:00",
+        "summary": "Forest fires in Central African Republic",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Central African Republic",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
+    },
+    {
+        "guid": -4753609808015368945,
+        "title": "Forest fires in Central African Republic",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027337&episodeid=1&eventtype=WF",
+        "published": "2026-01-29T00:00:00",
+        "summary": "Forest fires in Central African Republic",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Central African Republic",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
+    },
+    {
+        "guid": 5383060473334149261,
+        "title": "Forest fires in Ethiopia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027338&episodeid=1&eventtype=WF",
+        "published": "2026-01-24T00:00:00",
+        "summary": "Forest fires in Ethiopia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Ethiopia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Ethiopia\nEvent Type: WF\nAlert Level: Green\nCountry: Ethiopia\nDetails: Forest fires in Ethiopia"
+    },
+    {
+        "guid": 1264896462722654102,
+        "title": "Forest fires in Central African Republic",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027325&episodeid=4&eventtype=WF",
+        "published": "2026-02-01T00:00:00",
+        "summary": "Forest fires in Central African Republic",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Central African Republic",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
+    },
+    {
+        "guid": -2196664846518150420,
+        "title": "Forest fires in Central African Republic",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027326&episodeid=6&eventtype=WF",
+        "published": "2026-01-31T00:00:00",
+        "summary": "Forest fires in Central African Republic",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Central African Republic",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
+    },
+    {
+        "guid": 3277082225168026142,
         "title": "Forest fires in Central African Republic",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027333&episodeid=4&eventtype=WF",
         "published": "2026-02-03T00:00:00",
@@ -120,7 +180,7 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 2277588387017044609,
+        "guid": 3328028694389824070,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027334&episodeid=4&eventtype=WF",
         "published": "2026-02-01T00:00:00",
@@ -132,9 +192,9 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": -4521810571190161802,
+        "guid": 8443775450757234725,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027322&episodeid=5&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027322&episodeid=6&eventtype=WF",
         "published": "2026-02-02T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -144,9 +204,9 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": -2943906606591945244,
+        "guid": 1344802170137772595,
         "title": "Forest fires in The Democratic Republic of Congo",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027323&episodeid=3&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027323&episodeid=4&eventtype=WF",
         "published": "2026-01-23T00:00:00",
         "summary": "Forest fires in The Democratic Republic of Congo",
         "event_type": "WF",
@@ -156,9 +216,9 @@
         "full_text": "GDACS Alert: Forest fires in The Democratic Republic of Congo\nEvent Type: WF\nAlert Level: Green\nCountry: The Democratic Republic of Congo\nDetails: Forest fires in The Democratic Republic of Congo"
     },
     {
-        "guid": 6801021977947504680,
+        "guid": 1074221655053816171,
         "title": "Forest fires in The Democratic Republic of Congo",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027327&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027327&episodeid=3&eventtype=WF",
         "published": "2026-02-01T00:00:00",
         "summary": "Forest fires in The Democratic Republic of Congo",
         "event_type": "WF",
@@ -168,9 +228,9 @@
         "full_text": "GDACS Alert: Forest fires in The Democratic Republic of Congo\nEvent Type: WF\nAlert Level: Green\nCountry: The Democratic Republic of Congo\nDetails: Forest fires in The Democratic Republic of Congo"
     },
     {
-        "guid": 992181464071107070,
+        "guid": 1264896462722654102,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027328&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027328&episodeid=3&eventtype=WF",
         "published": "2026-02-01T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -180,9 +240,9 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 2392761583279937627,
+        "guid": -2196664846518150420,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027329&episodeid=3&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027329&episodeid=4&eventtype=WF",
         "published": "2026-01-31T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -192,9 +252,9 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 2392761583279937627,
+        "guid": -2196664846518150420,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027330&episodeid=3&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027330&episodeid=4&eventtype=WF",
         "published": "2026-01-31T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -204,9 +264,9 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 2392761583279937627,
+        "guid": -2196664846518150420,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027331&episodeid=5&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027331&episodeid=6&eventtype=WF",
         "published": "2026-01-31T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -216,9 +276,33 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": -1129497326556552605,
+        "guid": -1433361707159765172,
+        "title": "Forest fires in Sudan",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027332&episodeid=2&eventtype=WF",
+        "published": "2026-01-28T00:00:00",
+        "summary": "Forest fires in Sudan",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Sudan",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Sudan\nEvent Type: WF\nAlert Level: Green\nCountry: Sudan\nDetails: Forest fires in Sudan"
+    },
+    {
+        "guid": -8084062179765258096,
+        "title": "Forest fires in Sudan",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027318&episodeid=2&eventtype=WF",
+        "published": "2026-01-31T00:00:00",
+        "summary": "Forest fires in Sudan",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Sudan",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Sudan\nEvent Type: WF\nAlert Level: Green\nCountry: Sudan\nDetails: Forest fires in Sudan"
+    },
+    {
+        "guid": 6291673297877872165,
         "title": "Forest fires in Chad",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027319&episodeid=9&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027319&episodeid=10&eventtype=WF",
         "published": "2026-01-30T00:00:00",
         "summary": "Forest fires in Chad",
         "event_type": "WF",
@@ -228,7 +312,7 @@
         "full_text": "GDACS Alert: Forest fires in Chad\nEvent Type: WF\nAlert Level: Green\nCountry: Chad\nDetails: Forest fires in Chad"
     },
     {
-        "guid": -3203606642740819783,
+        "guid": -2295669411522249472,
         "title": "Forest fires in Chad",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027311&episodeid=10&eventtype=WF",
         "published": "2026-02-02T00:00:00",
@@ -240,7 +324,7 @@
         "full_text": "GDACS Alert: Forest fires in Chad\nEvent Type: WF\nAlert Level: Green\nCountry: Chad\nDetails: Forest fires in Chad"
     },
     {
-        "guid": 2392761583279937627,
+        "guid": -2196664846518150420,
         "title": "Forest fires in Central African Republic",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027312&episodeid=8&eventtype=WF",
         "published": "2026-01-31T00:00:00",
@@ -252,7 +336,7 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 5073810777165501498,
+        "guid": 7573912020855694822,
         "title": "Forest fires in Cambodia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027314&episodeid=2&eventtype=WF",
         "published": "2026-01-27T00:00:00",
@@ -264,9 +348,9 @@
         "full_text": "GDACS Alert: Forest fires in Cambodia\nEvent Type: WF\nAlert Level: Green\nCountry: Cambodia\nDetails: Forest fires in Cambodia"
     },
     {
-        "guid": 2021052274376994114,
+        "guid": -4753609808015368945,
         "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027308&episodeid=7&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027308&episodeid=8&eventtype=WF",
         "published": "2026-01-29T00:00:00",
         "summary": "Forest fires in Central African Republic",
         "event_type": "WF",
@@ -276,7 +360,7 @@
         "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     },
     {
-        "guid": 7805585257910790123,
+        "guid": 1474930749200767554,
         "title": "Earthquake in Myanmar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522925&episodeid=1686069&eventtype=EQ",
         "published": "2026-02-04T18:39:45",
@@ -288,7 +372,7 @@
         "full_text": "GDACS Alert: Earthquake in Myanmar\nEvent Type: EQ\nAlert Level: Green\nCountry: Myanmar\nDetails: Earthquake in Myanmar"
     },
     {
-        "guid": 967159589839375276,
+        "guid": -3571072007838168038,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522917&episodeid=1686052&eventtype=EQ",
         "published": "2026-02-04T18:20:42",
@@ -300,7 +384,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": -5666661347609581766,
+        "guid": 6256181975459755141,
         "title": "Earthquake in Islamic Republic of Iran",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522908&episodeid=1686042&eventtype=EQ",
         "published": "2026-02-04T17:17:50",
@@ -312,7 +396,7 @@
         "full_text": "GDACS Alert: Earthquake in Islamic Republic of Iran\nEvent Type: EQ\nAlert Level: Green\nCountry: Islamic Republic of Iran\nDetails: Earthquake in Islamic Republic of Iran"
     },
     {
-        "guid": 3391236400173588301,
+        "guid": -296733831811655765,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522897&episodeid=1686026&eventtype=EQ",
         "published": "2026-02-04T15:24:45",
@@ -324,7 +408,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 8082617332794035453,
+        "guid": 1787568931548711093,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522888&episodeid=1686015&eventtype=EQ",
         "published": "2026-02-04T13:14:48",
@@ -336,7 +420,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -2474334009373535842,
+        "guid": -842223292360261239,
         "title": "Earthquake in Galapagos Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522877&episodeid=1686003&eventtype=EQ",
         "published": "2026-02-04T11:08:19",
@@ -348,7 +432,7 @@
         "full_text": "GDACS Alert: Earthquake in Galapagos Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Galapagos Islands Region\nDetails: Earthquake in Galapagos Islands Region"
     },
     {
-        "guid": -5402874364072156114,
+        "guid": -4101913953185712852,
         "title": "Earthquake in Kermadec Islands, New Zealand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522873&episodeid=1685998&eventtype=EQ",
         "published": "2026-02-04T10:39:29",
@@ -360,7 +444,7 @@
         "full_text": "GDACS Alert: Earthquake in Kermadec Islands, New Zealand\nEvent Type: EQ\nAlert Level: Green\nCountry: Kermadec Islands, New Zealand\nDetails: Earthquake in Kermadec Islands, New Zealand"
     },
     {
-        "guid": 6348921745920193154,
+        "guid": 80428727798897697,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522860&episodeid=1685986&eventtype=EQ",
         "published": "2026-02-04T08:01:53",
@@ -372,7 +456,7 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": 7287389505399096111,
+        "guid": 450264763915474167,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522852&episodeid=1685978&eventtype=EQ",
         "published": "2026-02-04T07:11:31",
@@ -384,7 +468,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -3641950886305301076,
+        "guid": -2053906774194297851,
         "title": "Earthquake in East Of Kuril Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522848&episodeid=1685975&eventtype=EQ",
         "published": "2026-02-04T06:46:07",
@@ -396,7 +480,7 @@
         "full_text": "GDACS Alert: Earthquake in East Of Kuril Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: East Of Kuril Islands\nDetails: Earthquake in East Of Kuril Islands"
     },
     {
-        "guid": 7185764327718434177,
+        "guid": 2454286524243872955,
         "title": "Earthquake in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522845&episodeid=1685965&eventtype=EQ",
         "published": "2026-02-04T06:26:07",
@@ -408,7 +492,7 @@
         "full_text": "GDACS Alert: Earthquake in China\nEvent Type: EQ\nAlert Level: Green\nCountry: China\nDetails: Earthquake in China"
     },
     {
-        "guid": -316983182919005854,
+        "guid": -3532184341402748708,
         "title": "Tropical Cyclone FYTIA-26",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001254&episodeid=24&eventtype=TC",
         "published": "2026-01-29T12:00:00",
@@ -420,7 +504,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone FYTIA-26\nEvent Type: TC\nAlert Level: Orange\nCountry: Madagascar\nDetails: Tropical Cyclone FYTIA-26"
     },
     {
-        "guid": 227092906643971794,
+        "guid": -8450530663086352566,
         "title": "Earthquake in Fiji Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522835&episodeid=1685954&eventtype=EQ",
         "published": "2026-02-04T05:07:22",
@@ -432,7 +516,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji Islands Region\nDetails: Earthquake in Fiji Islands Region"
     },
     {
-        "guid": -1596806741794384357,
+        "guid": 9029406170930179591,
         "title": "Earthquake in Papua New Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522833&episodeid=1685951&eventtype=EQ",
         "published": "2026-02-04T04:25:54",
@@ -444,7 +528,7 @@
         "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
     },
     {
-        "guid": 2370352161801099274,
+        "guid": -2764593417241299896,
         "title": "Earthquake in South Of Fiji Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522824&episodeid=1685937&eventtype=EQ",
         "published": "2026-02-04T02:07:44",
@@ -456,7 +540,7 @@
         "full_text": "GDACS Alert: Earthquake in South Of Fiji Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: South Of Fiji Islands\nDetails: Earthquake in South Of Fiji Islands"
     },
     {
-        "guid": -8713924912103179622,
+        "guid": 801948426516442922,
         "title": "Flood in Spain",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103727&episodeid=5&eventtype=FL",
         "published": "2026-01-16T01:00:00",
@@ -468,7 +552,7 @@
         "full_text": "GDACS Alert: Flood in Spain\nEvent Type: FL\nAlert Level: Green\nCountry: Spain\nDetails: Flood in Spain"
     },
     {
-        "guid": 7481244613923039312,
+        "guid": -383029376621269373,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522806&episodeid=1685946&eventtype=EQ",
         "published": "2026-02-04T00:36:31",
@@ -480,7 +564,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -2778354196599338028,
+        "guid": 204537733930405842,
         "title": "Earthquake in Antarctica",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522807&episodeid=1685941&eventtype=EQ",
         "published": "2026-02-04T00:30:29",
@@ -492,7 +576,7 @@
         "full_text": "GDACS Alert: Earthquake in Antarctica\nEvent Type: EQ\nAlert Level: Green\nCountry: Antarctica\nDetails: Earthquake in Antarctica"
     },
     {
-        "guid": -3883969351863798365,
+        "guid": 1691546793158779368,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1522808&episodeid=1685938&eventtype=EQ",
         "published": "2026-02-04T00:23:33",
@@ -504,7 +588,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": 5073810777165501498,
+        "guid": 7573912020855694822,
         "title": "Forest fires in Cambodia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027321&episodeid=2&eventtype=WF",
         "published": "2026-01-27T00:00:00",
@@ -514,89 +598,5 @@
         "country": "Cambodia",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Forest fires in Cambodia\nEvent Type: WF\nAlert Level: Green\nCountry: Cambodia\nDetails: Forest fires in Cambodia"
-    },
-    {
-        "guid": 6477213785928827637,
-        "title": "Forest fires in Sudan",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027316&episodeid=3&eventtype=WF",
-        "published": "2026-02-02T00:00:00",
-        "summary": "Forest fires in Sudan",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Sudan",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Sudan\nEvent Type: WF\nAlert Level: Green\nCountry: Sudan\nDetails: Forest fires in Sudan"
-    },
-    {
-        "guid": 992181464071107070,
-        "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027317&episodeid=6&eventtype=WF",
-        "published": "2026-02-01T00:00:00",
-        "summary": "Forest fires in Central African Republic",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Central African Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
-    },
-    {
-        "guid": -3203606642740819783,
-        "title": "Forest fires in Chad",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027324&episodeid=3&eventtype=WF",
-        "published": "2026-02-02T00:00:00",
-        "summary": "Forest fires in Chad",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Chad",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Chad\nEvent Type: WF\nAlert Level: Green\nCountry: Chad\nDetails: Forest fires in Chad"
-    },
-    {
-        "guid": 1827615313808956575,
-        "title": "Forest fires in Sudan",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027332&episodeid=1&eventtype=WF",
-        "published": "2026-01-28T00:00:00",
-        "summary": "Forest fires in Sudan",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Sudan",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Sudan\nEvent Type: WF\nAlert Level: Green\nCountry: Sudan\nDetails: Forest fires in Sudan"
-    },
-    {
-        "guid": 7486617797087711739,
-        "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027254&episodeid=12&eventtype=WF",
-        "published": "2026-01-27T00:00:00",
-        "summary": "Forest fires in Central African Republic",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Central African Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
-    },
-    {
-        "guid": 7049426065818639950,
-        "title": "Forest fires in Senegal",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027246&episodeid=16&eventtype=WF",
-        "published": "2026-01-25T00:00:00",
-        "summary": "Forest fires in Senegal",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Senegal",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Senegal\nEvent Type: WF\nAlert Level: Green\nCountry: Senegal\nDetails: Forest fires in Senegal"
-    },
-    {
-        "guid": -8396046136688306185,
-        "title": "Forest fires in Central African Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027237&episodeid=16&eventtype=WF",
-        "published": "2026-01-22T00:00:00",
-        "summary": "Forest fires in Central African Republic",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Central African Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Central African Republic\nEvent Type: WF\nAlert Level: Green\nCountry: Central African Republic\nDetails: Forest fires in Central African Republic"
     }
 ]
