@@ -1,6 +1,18 @@
 [
     {
-        "guid": 2452298756495601785,
+        "guid": 7935824162913122937,
+        "title": "Earthquake in South Of Panama",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1529903&episodeid=1693892&eventtype=EQ",
+        "published": "2026-03-19T11:36:45",
+        "summary": "Earthquake in South Of Panama",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "South Of Panama",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in South Of Panama\nEvent Type: EQ\nAlert Level: Green\nCountry: South Of Panama\nDetails: Earthquake in South Of Panama"
+    },
+    {
+        "guid": 3491739859367847135,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529871&episodeid=1693860&eventtype=EQ",
         "published": "2026-03-19T07:43:31",
@@ -12,7 +24,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -3561338745462046707,
+        "guid": 107633166120419442,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529866&episodeid=1693854&eventtype=EQ",
         "published": "2026-03-19T06:26:36",
@@ -24,7 +36,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": -1777156725481368556,
+        "guid": -1005639529046811665,
         "title": "Tropical Cyclone NARELLE-26",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001265&episodeid=6&eventtype=TC",
         "published": "2026-03-17T00:00:00",
@@ -36,7 +48,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone NARELLE-26\nEvent Type: TC\nAlert Level: Green\nCountry: Australia, Papua New Guinea\nDetails: Tropical Cyclone NARELLE-26"
     },
     {
-        "guid": -3229450267690648116,
+        "guid": 7083249989871878388,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529842&episodeid=1693825&eventtype=EQ",
         "published": "2026-03-19T02:07:29",
@@ -48,19 +60,19 @@
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
     },
     {
-        "guid": 5279028414783714287,
-        "title": "Forest fires in Mali",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027836&episodeid=3&eventtype=WF",
-        "published": "2026-03-17T00:00:00",
-        "summary": "Forest fires in Mali",
+        "guid": -5678238883223112898,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027837&episodeid=2&eventtype=WF",
+        "published": "2026-03-18T00:00:00",
+        "summary": "Forest fires in Australia",
         "event_type": "WF",
         "alert_level": "Green",
-        "country": "Mali",
+        "country": "Australia",
         "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Mali\nEvent Type: WF\nAlert Level: Green\nCountry: Mali\nDetails: Forest fires in Mali"
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 2919910455295866292,
+        "guid": -2166509677236526955,
         "title": "Forest fires in Venezuela",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027838&episodeid=2&eventtype=WF",
         "published": "2026-03-16T00:00:00",
@@ -72,9 +84,45 @@
         "full_text": "GDACS Alert: Forest fires in Venezuela\nEvent Type: WF\nAlert Level: Green\nCountry: Venezuela\nDetails: Forest fires in Venezuela"
     },
     {
-        "guid": 2826541000483836411,
+        "guid": 8048703824490724992,
+        "title": "Forest fires in Mali",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027836&episodeid=3&eventtype=WF",
+        "published": "2026-03-17T00:00:00",
+        "summary": "Forest fires in Mali",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Mali",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Mali\nEvent Type: WF\nAlert Level: Green\nCountry: Mali\nDetails: Forest fires in Mali"
+    },
+    {
+        "guid": -6477750311286573885,
         "title": "Forest fires in Myanmar",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027840&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027841&episodeid=1&eventtype=WF",
+        "published": "2026-03-15T00:00:00",
+        "summary": "Forest fires in Myanmar",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Myanmar",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: Myanmar\nDetails: Forest fires in Myanmar"
+    },
+    {
+        "guid": 3807624752901323230,
+        "title": "Forest fires in India",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027842&episodeid=1&eventtype=WF",
+        "published": "2026-03-15T00:00:00",
+        "summary": "Forest fires in India",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
+    },
+    {
+        "guid": 9128070943808616889,
+        "title": "Forest fires in Myanmar",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027840&episodeid=3&eventtype=WF",
         "published": "2026-03-12T00:00:00",
         "summary": "Forest fires in Myanmar",
         "event_type": "WF",
@@ -84,9 +132,9 @@
         "full_text": "GDACS Alert: Forest fires in Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: Myanmar\nDetails: Forest fires in Myanmar"
     },
     {
-        "guid": 2793816871060653642,
+        "guid": -7584845395121453590,
         "title": "Forest fires in China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027826&episodeid=4&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027826&episodeid=5&eventtype=WF",
         "published": "2026-03-13T00:00:00",
         "summary": "Forest fires in China",
         "event_type": "WF",
@@ -96,9 +144,9 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": 4826608577746475092,
+        "guid": -7041243560142416,
         "title": "Forest fires in China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027829&episodeid=4&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027829&episodeid=5&eventtype=WF",
         "published": "2026-03-14T00:00:00",
         "summary": "Forest fires in China",
         "event_type": "WF",
@@ -108,7 +156,19 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": -6689948726295821675,
+        "guid": 3464336436785007980,
+        "title": "Forest fires in India, Myanmar",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027832&episodeid=3&eventtype=WF",
+        "published": "2026-03-12T00:00:00",
+        "summary": "Forest fires in India, Myanmar",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India, Myanmar",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India, Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: India, Myanmar\nDetails: Forest fires in India, Myanmar"
+    },
+    {
+        "guid": -2959214678616622048,
         "title": "Forest fires in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027833&episodeid=3&eventtype=WF",
         "published": "2026-03-12T00:00:00",
@@ -120,7 +180,19 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": -8978677357787142832,
+        "guid": 1908626570484357038,
+        "title": "Forest fires in India",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027795&episodeid=16&eventtype=WF",
+        "published": "2026-03-07T00:00:00",
+        "summary": "Forest fires in India",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
+    },
+    {
+        "guid": 2974155000544596482,
         "title": "Forest fires in Myanmar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027807&episodeid=18&eventtype=WF",
         "published": "2026-03-04T00:00:00",
@@ -132,7 +204,7 @@
         "full_text": "GDACS Alert: Forest fires in Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: Myanmar\nDetails: Forest fires in Myanmar"
     },
     {
-        "guid": -8978677357787142832,
+        "guid": 2974155000544596482,
         "title": "Forest fires in Myanmar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027810&episodeid=13&eventtype=WF",
         "published": "2026-03-04T00:00:00",
@@ -144,7 +216,31 @@
         "full_text": "GDACS Alert: Forest fires in Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: Myanmar\nDetails: Forest fires in Myanmar"
     },
     {
-        "guid": -4823011516978074415,
+        "guid": -109591615763467363,
+        "title": "Forest fires in India",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027815&episodeid=6&eventtype=WF",
+        "published": "2026-03-10T00:00:00",
+        "summary": "Forest fires in India",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
+    },
+    {
+        "guid": -109591615763467363,
+        "title": "Forest fires in India",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027817&episodeid=10&eventtype=WF",
+        "published": "2026-03-10T00:00:00",
+        "summary": "Forest fires in India",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
+    },
+    {
+        "guid": -735967743217801926,
         "title": "Earthquake in Cuba",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529808&episodeid=1693791&eventtype=EQ",
         "published": "2026-03-18T22:07:55",
@@ -156,7 +252,7 @@
         "full_text": "GDACS Alert: Earthquake in Cuba\nEvent Type: EQ\nAlert Level: Green\nCountry: Cuba\nDetails: Earthquake in Cuba"
     },
     {
-        "guid": 4493091537522234459,
+        "guid": -8727566605063817244,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529796&episodeid=1693782&eventtype=EQ",
         "published": "2026-03-18T21:23:02",
@@ -168,7 +264,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": 815777994827641312,
+        "guid": -2355726454292108642,
         "title": "Earthquake in Fiji",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529790&episodeid=1693772&eventtype=EQ",
         "published": "2026-03-18T20:51:06",
@@ -180,7 +276,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji\nDetails: Earthquake in Fiji"
     },
     {
-        "guid": 7561839886252693802,
+        "guid": -5607895364249499900,
         "title": "Earthquake in Guatemala",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529766&episodeid=1693747&eventtype=EQ",
         "published": "2026-03-18T17:35:31",
@@ -192,7 +288,7 @@
         "full_text": "GDACS Alert: Earthquake in Guatemala\nEvent Type: EQ\nAlert Level: Green\nCountry: Guatemala\nDetails: Earthquake in Guatemala"
     },
     {
-        "guid": 5002714657287634327,
+        "guid": 1439321489270092555,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529748&episodeid=1693733&eventtype=EQ",
         "published": "2026-03-18T14:51:10",
@@ -204,7 +300,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": 6139673066180336327,
+        "guid": -3702341962841507737,
         "title": "Earthquake in Tajikistan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529894&episodeid=1693883&eventtype=EQ",
         "published": "2026-03-18T14:24:51",
@@ -216,7 +312,7 @@
         "full_text": "GDACS Alert: Earthquake in Tajikistan\nEvent Type: EQ\nAlert Level: Green\nCountry: Tajikistan\nDetails: Earthquake in Tajikistan"
     },
     {
-        "guid": -5111084107829834340,
+        "guid": -2567448931232645761,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529722&episodeid=1693695&eventtype=EQ",
         "published": "2026-03-18T12:19:53",
@@ -228,7 +324,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": 6835690702480372839,
+        "guid": 1059521250521393693,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529719&episodeid=1693691&eventtype=EQ",
         "published": "2026-03-18T12:11:54",
@@ -240,7 +336,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": -6630743340662933079,
+        "guid": 4198474245491534913,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529867&episodeid=1693853&eventtype=EQ",
         "published": "2026-03-18T12:06:34",
@@ -252,7 +348,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": 1442189173756272234,
+        "guid": 1421773781593327263,
         "title": "Earthquake in Mid-Indian Ridge",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529708&episodeid=1693679&eventtype=EQ",
         "published": "2026-03-18T11:10:59",
@@ -264,7 +360,7 @@
         "full_text": "GDACS Alert: Earthquake in Mid-Indian Ridge\nEvent Type: EQ\nAlert Level: Green\nCountry: Mid-Indian Ridge\nDetails: Earthquake in Mid-Indian Ridge"
     },
     {
-        "guid": 893736194251434750,
+        "guid": 6172405968760639875,
         "title": "Earthquake in Southeast Of Honshu, Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529701&episodeid=1693670&eventtype=EQ",
         "published": "2026-03-18T10:08:43",
@@ -276,7 +372,7 @@
         "full_text": "GDACS Alert: Earthquake in Southeast Of Honshu, Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Southeast Of Honshu, Japan\nDetails: Earthquake in Southeast Of Honshu, Japan"
     },
     {
-        "guid": 334931647700276089,
+        "guid": -2825762672216228171,
         "title": "Earthquake in Mariana Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529672&episodeid=1693640&eventtype=EQ",
         "published": "2026-03-18T06:04:30",
@@ -288,7 +384,7 @@
         "full_text": "GDACS Alert: Earthquake in Mariana Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Mariana Islands\nDetails: Earthquake in Mariana Islands"
     },
     {
-        "guid": 4459622884607412741,
+        "guid": 410735107174383976,
         "title": "Earthquake in Rat Islands, Aleutian Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529659&episodeid=1693626&eventtype=EQ",
         "published": "2026-03-18T04:36:32",
@@ -300,7 +396,7 @@
         "full_text": "GDACS Alert: Earthquake in Rat Islands, Aleutian Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Rat Islands, Aleutian Islands\nDetails: Earthquake in Rat Islands, Aleutian Islands"
     },
     {
-        "guid": -6635328142544250597,
+        "guid": 79194504685643980,
         "title": "Flood in Libya",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103802&episodeid=1&eventtype=FL",
         "published": "2026-03-16T01:00:00",
@@ -312,7 +408,7 @@
         "full_text": "GDACS Alert: Flood in Libya\nEvent Type: FL\nAlert Level: Green\nCountry: Libya\nDetails: Flood in Libya"
     },
     {
-        "guid": 2084691231787839131,
+        "guid": -3251334089036482189,
         "title": "Flood in Paraguay",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103794&episodeid=2&eventtype=FL",
         "published": "2026-03-08T01:00:00",
@@ -324,31 +420,7 @@
         "full_text": "GDACS Alert: Flood in Paraguay\nEvent Type: FL\nAlert Level: Green\nCountry: Paraguay\nDetails: Flood in Paraguay"
     },
     {
-        "guid": 506682519092157877,
-        "title": "Forest fires in India",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027816&episodeid=7&eventtype=WF",
-        "published": "2026-03-10T00:00:00",
-        "summary": "Forest fires in India",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "India",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
-    },
-    {
-        "guid": 506682519092157877,
-        "title": "Forest fires in India",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027817&episodeid=9&eventtype=WF",
-        "published": "2026-03-10T00:00:00",
-        "summary": "Forest fires in India",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "India",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
-    },
-    {
-        "guid": -1228916466996965205,
+        "guid": -8214513378085478159,
         "title": "Forest fires in India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027819&episodeid=7&eventtype=WF",
         "published": "2026-03-11T00:00:00",
@@ -360,7 +432,19 @@
         "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
     },
     {
-        "guid": 4826608577746475092,
+        "guid": -109591615763467363,
+        "title": "Forest fires in India",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1027816&episodeid=7&eventtype=WF",
+        "published": "2026-03-10T00:00:00",
+        "summary": "Forest fires in India",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "India",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
+    },
+    {
+        "guid": -7041243560142416,
         "title": "Forest fires in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027822&episodeid=3&eventtype=WF",
         "published": "2026-03-14T00:00:00",
@@ -372,19 +456,7 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": 6186770001997884127,
-        "title": "Forest fires in Australia",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027837&episodeid=1&eventtype=WF",
-        "published": "2026-03-18T00:00:00",
-        "summary": "Forest fires in Australia",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Australia",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
-    },
-    {
-        "guid": -6136524132056409680,
+        "guid": 9082486259287311408,
         "title": "Forest fires in Venezuela",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027839&episodeid=1&eventtype=WF",
         "published": "2026-03-15T00:00:00",
@@ -396,7 +468,7 @@
         "full_text": "GDACS Alert: Forest fires in Venezuela\nEvent Type: WF\nAlert Level: Green\nCountry: Venezuela\nDetails: Forest fires in Venezuela"
     },
     {
-        "guid": 4990292174733203777,
+        "guid": -1980021373516894449,
         "title": "Forest fires in Mauritania",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027835&episodeid=1&eventtype=WF",
         "published": "2026-03-16T00:00:00",
@@ -408,19 +480,7 @@
         "full_text": "GDACS Alert: Forest fires in Mauritania\nEvent Type: WF\nAlert Level: Green\nCountry: Mauritania\nDetails: Forest fires in Mauritania"
     },
     {
-        "guid": -2605162696674793657,
-        "title": "Forest fires in India, Myanmar",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1027832&episodeid=2&eventtype=WF",
-        "published": "2026-03-12T00:00:00",
-        "summary": "Forest fires in India, Myanmar",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "India, Myanmar",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in India, Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: India, Myanmar\nDetails: Forest fires in India, Myanmar"
-    },
-    {
-        "guid": 2305975999038265091,
+        "guid": 4345427099104368524,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529623&episodeid=1693587&eventtype=EQ",
         "published": "2026-03-17T23:27:57",
@@ -432,7 +492,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": 8660565614590726748,
+        "guid": 8821075393573553019,
         "title": "Earthquake in Spain",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529621&episodeid=1693589&eventtype=EQ",
         "published": "2026-03-17T23:24:54",
@@ -444,7 +504,7 @@
         "full_text": "GDACS Alert: Earthquake in Spain\nEvent Type: EQ\nAlert Level: Green\nCountry: Spain\nDetails: Earthquake in Spain"
     },
     {
-        "guid": -5491747794044867213,
+        "guid": 8423054528800520870,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529602&episodeid=1693578&eventtype=EQ",
         "published": "2026-03-17T21:13:32",
@@ -456,7 +516,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": 652537460723965456,
+        "guid": 6738768097612996743,
         "title": "Earthquake in Costa Rica",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529594&episodeid=1693559&eventtype=EQ",
         "published": "2026-03-17T20:25:33",
@@ -468,7 +528,7 @@
         "full_text": "GDACS Alert: Earthquake in Costa Rica\nEvent Type: EQ\nAlert Level: Green\nCountry: Costa Rica\nDetails: Earthquake in Costa Rica"
     },
     {
-        "guid": 9106347563166892688,
+        "guid": -7612356796595401695,
         "title": "Earthquake in Ascension Island Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529590&episodeid=1693548&eventtype=EQ",
         "published": "2026-03-17T19:53:57",
@@ -480,7 +540,7 @@
         "full_text": "GDACS Alert: Earthquake in Ascension Island Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Ascension Island Region\nDetails: Earthquake in Ascension Island Region"
     },
     {
-        "guid": -7899485898933169144,
+        "guid": 2034126255972352799,
         "title": "Earthquake in Vanuatu Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529687&episodeid=1693738&eventtype=EQ",
         "published": "2026-03-17T19:19:08",
@@ -492,7 +552,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands Region\nDetails: Earthquake in Vanuatu Islands Region"
     },
     {
-        "guid": -958610242298331687,
+        "guid": -5916874459813640788,
         "title": "Earthquake in Rat Islands, Aleutian Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529565&episodeid=1693718&eventtype=EQ",
         "published": "2026-03-17T16:21:38",
@@ -504,7 +564,7 @@
         "full_text": "GDACS Alert: Earthquake in Rat Islands, Aleutian Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Rat Islands, Aleutian Islands\nDetails: Earthquake in Rat Islands, Aleutian Islands"
     },
     {
-        "guid": 6878354131549106236,
+        "guid": -612060654342238625,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529545&episodeid=1693708&eventtype=EQ",
         "published": "2026-03-17T14:32:46",
@@ -516,7 +576,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -940570277442579466,
+        "guid": -2797849410755870728,
         "title": "Earthquake in South Of Kermadec Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529544&episodeid=1693704&eventtype=EQ",
         "published": "2026-03-17T14:18:00",
@@ -528,7 +588,7 @@
         "full_text": "GDACS Alert: Earthquake in South Of Kermadec Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: South Of Kermadec Islands\nDetails: Earthquake in South Of Kermadec Islands"
     },
     {
-        "guid": 478587649478997245,
+        "guid": -1125415389450003599,
         "title": "Earthquake in Papua New Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1529510&episodeid=1693463&eventtype=EQ",
         "published": "2026-03-17T11:33:48",
@@ -538,65 +598,5 @@
         "country": "Papua New Guinea",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
-    },
-    {
-        "guid": 4130731552989160076,
-        "title": "Earthquake in Russian Federation",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1529508&episodeid=1693459&eventtype=EQ",
-        "published": "2026-03-17T11:05:45",
-        "summary": "Earthquake in Russian Federation",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Russian Federation",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Russian Federation\nEvent Type: EQ\nAlert Level: Green\nCountry: Russian Federation\nDetails: Earthquake in Russian Federation"
-    },
-    {
-        "guid": 48257001769554487,
-        "title": "Earthquake in Islamic Republic of Iran",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1529476&episodeid=1693425&eventtype=EQ",
-        "published": "2026-03-17T06:59:41",
-        "summary": "Earthquake in Islamic Republic of Iran",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Islamic Republic of Iran",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Islamic Republic of Iran\nEvent Type: EQ\nAlert Level: Green\nCountry: Islamic Republic of Iran\nDetails: Earthquake in Islamic Republic of Iran"
-    },
-    {
-        "guid": -5428793935121514854,
-        "title": "Earthquake in Cuba",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1529462&episodeid=1693410&eventtype=EQ",
-        "published": "2026-03-17T04:44:09",
-        "summary": "Earthquake in Cuba",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Cuba",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Cuba\nEvent Type: EQ\nAlert Level: Green\nCountry: Cuba\nDetails: Earthquake in Cuba"
-    },
-    {
-        "guid": -276230508523713987,
-        "title": "Earthquake in Papua New Guinea",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1529460&episodeid=1693407&eventtype=EQ",
-        "published": "2026-03-17T04:38:53",
-        "summary": "Earthquake in Papua New Guinea",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Papua New Guinea",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
-    },
-    {
-        "guid": -67451272030148440,
-        "title": "Earthquake in Cuba",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1529453&episodeid=1693399&eventtype=EQ",
-        "published": "2026-03-17T04:28:25",
-        "summary": "Earthquake in Cuba",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Cuba",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Cuba\nEvent Type: EQ\nAlert Level: Green\nCountry: Cuba\nDetails: Earthquake in Cuba"
     }
 ]
