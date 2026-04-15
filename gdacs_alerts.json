@@ -1,6 +1,6 @@
 [
     {
-        "guid": 1765072606692201867,
+        "guid": -2010378987826751643,
         "title": "Flood in Italy",
         "link": "https://www.gdacs.org/report.aspx?eventid=1103839&episodeid=1&eventtype=FL",
         "published": "2026-04-14T01:00:00",
@@ -12,7 +12,7 @@
         "full_text": "GDACS Alert: Flood in Italy\nEvent Type: FL\nAlert Level: Green\nCountry: Italy\nDetails: Flood in Italy"
     },
     {
-        "guid": 5349028497327439182,
+        "guid": 1385694109301335990,
         "title": "Tropical Cyclone SINLAKU-26",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001270&episodeid=28&eventtype=TC",
         "published": "2026-04-09T00:00:00",
@@ -24,7 +24,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone SINLAKU-26\nEvent Type: TC\nAlert Level: Red\nCountry: Northern Mariana Islands, Guam\nDetails: Tropical Cyclone SINLAKU-26"
     },
     {
-        "guid": 994315050707795,
+        "guid": 8373410940387756943,
         "title": "Earthquake in Fiji",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535572&episodeid=1700155&eventtype=EQ",
         "published": "2026-04-15T17:09:18",
@@ -36,7 +36,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji\nDetails: Earthquake in Fiji"
     },
     {
-        "guid": 3341925540243327543,
+        "guid": -2169247180770352549,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535498&episodeid=1700078&eventtype=EQ",
         "published": "2026-04-15T07:59:41",
@@ -48,7 +48,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": 7680116919630358729,
+        "guid": -9139725042354966511,
         "title": "Earthquake in Solomon Is.",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535494&episodeid=1700079&eventtype=EQ",
         "published": "2026-04-15T07:27:56",
@@ -60,7 +60,7 @@
         "full_text": "GDACS Alert: Earthquake in Solomon Is.\nEvent Type: EQ\nAlert Level: Green\nCountry: Solomon Is.\nDetails: Earthquake in Solomon Is."
     },
     {
-        "guid": -4317542921823348807,
+        "guid": -2543534667727219846,
         "title": "Earthquake in Costa Rica",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535489&episodeid=1700068&eventtype=EQ",
         "published": "2026-04-15T06:56:02",
@@ -72,7 +72,7 @@
         "full_text": "GDACS Alert: Earthquake in Costa Rica\nEvent Type: EQ\nAlert Level: Green\nCountry: Costa Rica\nDetails: Earthquake in Costa Rica"
     },
     {
-        "guid": 9023491695316857660,
+        "guid": -6331712831428507599,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535463&episodeid=1700042&eventtype=EQ",
         "published": "2026-04-15T02:38:25",
@@ -84,7 +84,7 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": 7807285637160903334,
+        "guid": -8484270687813381216,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1535450&episodeid=1700037&eventtype=EQ",
         "published": "2026-04-15T02:10:40",
@@ -96,7 +96,43 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -1743685602100256108,
+        "guid": -5141769901952248808,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028415&episodeid=1&eventtype=WF",
+        "published": "2026-04-14T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -5141769901952248808,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028414&episodeid=1&eventtype=WF",
+        "published": "2026-04-14T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 5328687725934455140,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028413&episodeid=1&eventtype=WF",
+        "published": "2026-04-15T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -8290454324754426185,
         "title": "Forest fires in India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028412&episodeid=1&eventtype=WF",
         "published": "2026-04-12T00:00:00",
@@ -108,7 +144,7 @@
         "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
     },
     {
-        "guid": 3103876898079516370,
+        "guid": -8834343720023889750,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028411&episodeid=1&eventtype=WF",
         "published": "2026-04-13T00:00:00",
@@ -120,7 +156,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028410&episodeid=1&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -132,7 +168,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": -4684280555734245648,
+        "guid": -63426117598494603,
         "title": "Forest fires in Bangladesh",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028409&episodeid=1&eventtype=WF",
         "published": "2026-04-10T00:00:00",
@@ -144,7 +180,7 @@
         "full_text": "GDACS Alert: Forest fires in Bangladesh\nEvent Type: WF\nAlert Level: Green\nCountry: Bangladesh\nDetails: Forest fires in Bangladesh"
     },
     {
-        "guid": 5284778870254832909,
+        "guid": 3438837881403358637,
         "title": "Forest fires in India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028408&episodeid=2&eventtype=WF",
         "published": "2026-04-11T00:00:00",
@@ -156,7 +192,7 @@
         "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
     },
     {
-        "guid": -5622049712657052009,
+        "guid": -5622000251079993131,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028407&episodeid=1&eventtype=WF",
         "published": "2026-04-01T00:00:00",
@@ -168,7 +204,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": 14781775151350237,
+        "guid": 3826663785637310884,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028406&episodeid=1&eventtype=WF",
         "published": "2026-04-02T00:00:00",
@@ -180,7 +216,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": 6978423346414580016,
+        "guid": 887947567233136653,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028405&episodeid=2&eventtype=WF",
         "published": "2026-04-03T00:00:00",
@@ -192,7 +228,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": 7639084711538314365,
+        "guid": 5458271630226937202,
         "title": "Forest fires in Viet Nam",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028404&episodeid=1&eventtype=WF",
         "published": "2026-04-04T00:00:00",
@@ -204,7 +240,7 @@
         "full_text": "GDACS Alert: Forest fires in Viet Nam\nEvent Type: WF\nAlert Level: Green\nCountry: Viet Nam\nDetails: Forest fires in Viet Nam"
     },
     {
-        "guid": -5590660141390849772,
+        "guid": -1206211223979886925,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028403&episodeid=1&eventtype=WF",
         "published": "2026-04-06T00:00:00",
@@ -216,7 +252,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": -4298859355626950833,
+        "guid": 4344844285350335729,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028402&episodeid=2&eventtype=WF",
         "published": "2026-04-07T00:00:00",
@@ -228,7 +264,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7332771202155319605,
+        "guid": -5829325385090783716,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028401&episodeid=2&eventtype=WF",
         "published": "2026-04-07T00:00:00",
@@ -240,7 +276,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": 7332771202155319605,
+        "guid": -5829325385090783716,
         "title": "Forest fires in Laos",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028400&episodeid=1&eventtype=WF",
         "published": "2026-04-07T00:00:00",
@@ -252,7 +288,7 @@
         "full_text": "GDACS Alert: Forest fires in Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Laos\nDetails: Forest fires in Laos"
     },
     {
-        "guid": -4582956082701390852,
+        "guid": -1253200811181360884,
         "title": "Forest fires in Bangladesh, India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028399&episodeid=2&eventtype=WF",
         "published": "2026-04-10T00:00:00",
@@ -264,7 +300,7 @@
         "full_text": "GDACS Alert: Forest fires in Bangladesh, India\nEvent Type: WF\nAlert Level: Green\nCountry: Bangladesh, India\nDetails: Forest fires in Bangladesh, India"
     },
     {
-        "guid": -4684280555734245648,
+        "guid": -63426117598494603,
         "title": "Forest fires in Bangladesh",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028398&episodeid=2&eventtype=WF",
         "published": "2026-04-10T00:00:00",
@@ -276,7 +312,7 @@
         "full_text": "GDACS Alert: Forest fires in Bangladesh\nEvent Type: WF\nAlert Level: Green\nCountry: Bangladesh\nDetails: Forest fires in Bangladesh"
     },
     {
-        "guid": -1017342842671700381,
+        "guid": -7122031593050660022,
         "title": "Forest fires in Myanmar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028397&episodeid=2&eventtype=WF",
         "published": "2026-04-10T00:00:00",
@@ -288,7 +324,7 @@
         "full_text": "GDACS Alert: Forest fires in Myanmar\nEvent Type: WF\nAlert Level: Green\nCountry: Myanmar\nDetails: Forest fires in Myanmar"
     },
     {
-        "guid": -4873495430753151858,
+        "guid": -7268389560496041083,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028396&episodeid=1&eventtype=WF",
         "published": "2026-04-10T00:00:00",
@@ -300,7 +336,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 5769251283445726405,
+        "guid": 8592830131471591305,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028395&episodeid=1&eventtype=WF",
         "published": "2026-04-11T00:00:00",
@@ -312,7 +348,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 5284778870254832909,
+        "guid": 3438837881403358637,
         "title": "Forest fires in India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028394&episodeid=3&eventtype=WF",
         "published": "2026-04-11T00:00:00",
@@ -324,7 +360,7 @@
         "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
     },
     {
-        "guid": -410496903590610145,
+        "guid": 2496332827803321783,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028393&episodeid=1&eventtype=WF",
         "published": "2026-04-12T00:00:00",
@@ -336,7 +372,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": -410496903590610145,
+        "guid": 2496332827803321783,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028392&episodeid=1&eventtype=WF",
         "published": "2026-04-12T00:00:00",
@@ -348,7 +384,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": -5303743331102594361,
+        "guid": 6055070563941011015,
         "title": "Forest fires in Bangladesh, India",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028391&episodeid=2&eventtype=WF",
         "published": "2026-04-12T00:00:00",
@@ -360,7 +396,7 @@
         "full_text": "GDACS Alert: Forest fires in Bangladesh, India\nEvent Type: WF\nAlert Level: Green\nCountry: Bangladesh, India\nDetails: Forest fires in Bangladesh, India"
     },
     {
-        "guid": 3444150905350976407,
+        "guid": -8235987396940801532,
         "title": "Forest fires in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028390&episodeid=1&eventtype=WF",
         "published": "2026-04-13T00:00:00",
@@ -372,7 +408,7 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028389&episodeid=2&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -384,7 +420,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028388&episodeid=1&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -396,7 +432,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028387&episodeid=2&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -408,9 +444,9 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028386&episodeid=1&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028386&episodeid=2&eventtype=WF",
         "published": "2026-04-14T00:00:00",
         "summary": "Forest fires in Australia",
         "event_type": "WF",
@@ -420,7 +456,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028385&episodeid=1&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -432,7 +468,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028384&episodeid=1&eventtype=WF",
         "published": "2026-04-14T00:00:00",
@@ -444,9 +480,9 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 7316140455449592652,
+        "guid": -5141769901952248808,
         "title": "Forest fires in Australia",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028383&episodeid=1&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028383&episodeid=2&eventtype=WF",
         "published": "2026-04-14T00:00:00",
         "summary": "Forest fires in Australia",
         "event_type": "WF",
@@ -456,9 +492,9 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 2902736983141429851,
+        "guid": 5328687725934455140,
         "title": "Forest fires in Australia",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028382&episodeid=1&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028382&episodeid=2&eventtype=WF",
         "published": "2026-04-15T00:00:00",
         "summary": "Forest fires in Australia",
         "event_type": "WF",
@@ -468,7 +504,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 2902736983141429851,
+        "guid": 5328687725934455140,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028381&episodeid=1&eventtype=WF",
         "published": "2026-04-15T00:00:00",
@@ -480,7 +516,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 1373889868513372835,
+        "guid": -7764488659892092192,
         "title": "Forest fires in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028380&episodeid=2&eventtype=WF",
         "published": "2026-04-15T00:00:00",
@@ -492,9 +528,9 @@
         "full_text": "GDACS Alert: Forest fires in China\nEvent Type: WF\nAlert Level: Green\nCountry: China\nDetails: Forest fires in China"
     },
     {
-        "guid": -6851643033902970190,
+        "guid": 7701545586974906337,
         "title": "Forest fires in Mongolia, China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028379&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1028379&episodeid=3&eventtype=WF",
         "published": "2026-04-15T00:00:00",
         "summary": "Forest fires in Mongolia, China",
         "event_type": "WF",
@@ -504,7 +540,7 @@
         "full_text": "GDACS Alert: Forest fires in Mongolia, China\nEvent Type: WF\nAlert Level: Green\nCountry: Mongolia, China\nDetails: Forest fires in Mongolia, China"
     },
     {
-        "guid": 9152491366712783041,
+        "guid": 863727154712448775,
         "title": "Forest fires in Thailand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028378&episodeid=3&eventtype=WF",
         "published": "2026-03-31T00:00:00",
@@ -516,7 +552,7 @@
         "full_text": "GDACS Alert: Forest fires in Thailand\nEvent Type: WF\nAlert Level: Green\nCountry: Thailand\nDetails: Forest fires in Thailand"
     },
     {
-        "guid": -3252815827162578294,
+        "guid": 6866109816730690967,
         "title": "Forest fires in Thailand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028377&episodeid=3&eventtype=WF",
         "published": "2026-04-03T00:00:00",
@@ -528,7 +564,7 @@
         "full_text": "GDACS Alert: Forest fires in Thailand\nEvent Type: WF\nAlert Level: Green\nCountry: Thailand\nDetails: Forest fires in Thailand"
     },
     {
-        "guid": -2010729403951911380,
+        "guid": 7519141839398541238,
         "title": "Forest fires in Russian Federation",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028376&episodeid=2&eventtype=WF",
         "published": "2026-04-11T00:00:00",
@@ -540,7 +576,7 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": -5282859865036916954,
+        "guid": 1886143493334798618,
         "title": "Forest fires in Sudan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028375&episodeid=2&eventtype=WF",
         "published": "2026-04-12T00:00:00",
@@ -552,7 +588,7 @@
         "full_text": "GDACS Alert: Forest fires in Sudan\nEvent Type: WF\nAlert Level: Green\nCountry: Sudan\nDetails: Forest fires in Sudan"
     },
     {
-        "guid": -7607495683216864050,
+        "guid": -4610855099240831363,
         "title": "Forest fires in Thailand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1028374&episodeid=4&eventtype=WF",
         "published": "2026-04-05T00:00:00",
@@ -562,41 +598,5 @@
         "country": "Thailand",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Forest fires in Thailand\nEvent Type: WF\nAlert Level: Green\nCountry: Thailand\nDetails: Forest fires in Thailand"
-    },
-    {
-        "guid": -8795490769176566490,
-        "title": "Forest fires in Thailand",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028373&episodeid=4&eventtype=WF",
-        "published": "2026-04-06T00:00:00",
-        "summary": "Forest fires in Thailand",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Thailand",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Thailand\nEvent Type: WF\nAlert Level: Green\nCountry: Thailand\nDetails: Forest fires in Thailand"
-    },
-    {
-        "guid": 6397060994538120654,
-        "title": "Forest fires in India",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028371&episodeid=2&eventtype=WF",
-        "published": "2026-04-10T00:00:00",
-        "summary": "Forest fires in India",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "India",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in India\nEvent Type: WF\nAlert Level: Green\nCountry: India\nDetails: Forest fires in India"
-    },
-    {
-        "guid": -2477654127772871404,
-        "title": "Forest fires in Thailand, Laos",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1028370&episodeid=4&eventtype=WF",
-        "published": "2026-04-05T00:00:00",
-        "summary": "Forest fires in Thailand, Laos",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Thailand, Laos",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Thailand, Laos\nEvent Type: WF\nAlert Level: Green\nCountry: Thailand, Laos\nDetails: Forest fires in Thailand, Laos"
     }
 ]
