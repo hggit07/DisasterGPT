@@ -1,6 +1,30 @@
 [
     {
-        "guid": -2421833142128992572,
+        "guid": -1342817611001375065,
+        "title": "Tropical Cyclone ELIDA-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001282&episodeid=8&eventtype=TC",
+        "published": "2026-07-14T21:00:00",
+        "summary": "Tropical Cyclone ELIDA-26",
+        "event_type": "TC",
+        "alert_level": "Green",
+        "country": "",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone ELIDA-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone ELIDA-26"
+    },
+    {
+        "guid": -4538196516764222711,
+        "title": "Earthquake in Tonga",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1552222&episodeid=1718583&eventtype=EQ",
+        "published": "2026-07-16T13:56:19",
+        "summary": "Earthquake in Tonga",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Tonga",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Tonga\nEvent Type: EQ\nAlert Level: Green\nCountry: Tonga\nDetails: Earthquake in Tonga"
+    },
+    {
+        "guid": -5301283480614305575,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552187&episodeid=1718545&eventtype=EQ",
         "published": "2026-07-16T11:37:20",
@@ -12,7 +36,19 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": -1752069613339351863,
+        "guid": -5760901472837432116,
+        "title": "Earthquake in Chile",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1552177&episodeid=1718558&eventtype=EQ",
+        "published": "2026-07-16T10:38:08",
+        "summary": "Earthquake in Chile",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Chile",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
+    },
+    {
+        "guid": -8071754048988283214,
         "title": "Drought in Kazakhstan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027491&episodeid=2&eventtype=DR",
         "published": "2026-05-01T00:00:00",
@@ -24,7 +60,7 @@
         "full_text": "GDACS Alert: Drought in Kazakhstan\nEvent Type: DR\nAlert Level: Green\nCountry: Kazakhstan\nDetails: Drought in Kazakhstan"
     },
     {
-        "guid": 1123182946182611686,
+        "guid": -543818116549488648,
         "title": "Drought in Brazil",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027448&episodeid=3&eventtype=DR",
         "published": "2025-07-01T00:00:00",
@@ -36,7 +72,7 @@
         "full_text": "GDACS Alert: Drought in Brazil\nEvent Type: DR\nAlert Level: Green\nCountry: Brazil\nDetails: Drought in Brazil"
     },
     {
-        "guid": -6759481281089823426,
+        "guid": 811102664122467040,
         "title": "Drought in Ethiopia, Kenya, Somalia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=3&eventtype=DR",
         "published": "2026-04-21T00:00:00",
@@ -48,7 +84,7 @@
         "full_text": "GDACS Alert: Drought in Ethiopia, Kenya, Somalia\nEvent Type: DR\nAlert Level: Orange\nCountry: Ethiopia, Kenya, Somalia\nDetails: Drought in Ethiopia, Kenya, Somalia"
     },
     {
-        "guid": 7883545753403063454,
+        "guid": -3771161038894596062,
         "title": "Drought in Colombia, , Ecuador, Panama, Venezuela",
         "link": "https://www.gdacs.org/report.aspx?eventid=1023877&episodeid=3&eventtype=DR",
         "published": "2026-02-21T00:00:00",
@@ -60,7 +96,7 @@
         "full_text": "GDACS Alert: Drought in Colombia, , Ecuador, Panama, Venezuela\nEvent Type: DR\nAlert Level: Green\nCountry: Colombia, , Ecuador, Panama, Venezuela\nDetails: Drought in Colombia, , Ecuador, Panama, Venezuela"
     },
     {
-        "guid": -1003359995573181292,
+        "guid": 4946579713978343757,
         "title": "Drought in Costa Rica, Honduras, Nicaragua, El Salvador",
         "link": "https://www.gdacs.org/report.aspx?eventid=1027449&episodeid=3&eventtype=DR",
         "published": "2026-05-21T00:00:00",
@@ -72,7 +108,7 @@
         "full_text": "GDACS Alert: Drought in Costa Rica, Honduras, Nicaragua, El Salvador\nEvent Type: DR\nAlert Level: Green\nCountry: Costa Rica, Honduras, Nicaragua, El Salvador\nDetails: Drought in Costa Rica, Honduras, Nicaragua, El Salvador"
     },
     {
-        "guid": -2125318771929917595,
+        "guid": -8976586705991593549,
         "title": "Drought in Australia, Indonesia, Cambodia, Laos, Papua New Guinea, Philippines, Thailand, Vietnam",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018545&episodeid=9&eventtype=DR",
         "published": "2026-01-11T00:00:00",
@@ -84,7 +120,7 @@
         "full_text": "GDACS Alert: Drought in Australia, Indonesia, Cambodia, Laos, Papua New Guinea, Philippines, Thailand, Vietnam\nEvent Type: DR\nAlert Level: Green\nCountry: Australia, Indonesia, Cambodia, Laos, Papua New Guinea, Philippines, Thailand, Vietnam\nDetails: Drought in Australia, Indonesia, Cambodia, Laos, Papua New Guinea, Philippines, Thailand, Vietnam"
     },
     {
-        "guid": 2033808336982767513,
+        "guid": 6402364050858137534,
         "title": "Drought in Canada, United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018546&episodeid=9&eventtype=DR",
         "published": "2025-12-11T00:00:00",
@@ -96,7 +132,7 @@
         "full_text": "GDACS Alert: Drought in Canada, United States\nEvent Type: DR\nAlert Level: Green\nCountry: Canada, United States\nDetails: Drought in Canada, United States"
     },
     {
-        "guid": 2135943641416781957,
+        "guid": -3876237042546088202,
         "title": "Drought in Mexico, United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018093&episodeid=29&eventtype=DR",
         "published": "2025-08-21T00:00:00",
@@ -108,7 +144,7 @@
         "full_text": "GDACS Alert: Drought in Mexico, United States\nEvent Type: DR\nAlert Level: Green\nCountry: Mexico, United States\nDetails: Drought in Mexico, United States"
     },
     {
-        "guid": -4085081695629424420,
+        "guid": 101353951095289483,
         "title": "Drought in Republic of Congo, Gabon, Equatorial Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018344&episodeid=17&eventtype=DR",
         "published": "2025-12-21T00:00:00",
@@ -120,7 +156,7 @@
         "full_text": "GDACS Alert: Drought in Republic of Congo, Gabon, Equatorial Guinea\nEvent Type: DR\nAlert Level: Green\nCountry: Republic of Congo, Gabon, Equatorial Guinea\nDetails: Drought in Republic of Congo, Gabon, Equatorial Guinea"
     },
     {
-        "guid": -5561235635516604588,
+        "guid": -7905633298402318205,
         "title": "Drought in Madagascar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018431&episodeid=9&eventtype=DR",
         "published": "2025-11-21T00:00:00",
@@ -132,7 +168,7 @@
         "full_text": "GDACS Alert: Drought in Madagascar\nEvent Type: DR\nAlert Level: Orange\nCountry: Madagascar\nDetails: Drought in Madagascar"
     },
     {
-        "guid": 7114398978506668226,
+        "guid": -6863375824120649436,
         "title": "Drought in Albania, Austria, Bosnia  and  Herzegovina, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Italy, Liechtenstein, Monaco, Montenegro, The Republic of North Macedonia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, San Marino, Ukraine, , ",
         "link": "https://www.gdacs.org/report.aspx?eventid=1018332&episodeid=16&eventtype=DR",
         "published": "2025-12-11T00:00:00",
@@ -144,7 +180,7 @@
         "full_text": "GDACS Alert: Drought in Albania, Austria, Bosnia  and  Herzegovina, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Italy, Liechtenstein, Monaco, Montenegro, The Republic of North Macedonia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, San Marino, Ukraine, , \nEvent Type: DR\nAlert Level: Orange\nCountry: Albania, Austria, Bosnia & Herzegovina, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Italy, Liechtenstein, Monaco, Montenegro, The Republic of North Macedonia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, San Marino, Ukraine, , \nDetails: Drought in Albania, Austria, Bosnia  and  Herzegovina, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Italy, Liechtenstein, Monaco, Montenegro, The Republic of North Macedonia, Poland, Romania, Serbia, Russia, Sweden, Slovakia, San Marino, Ukraine, , "
     },
     {
-        "guid": -1108023880795542936,
+        "guid": 8172336867105754296,
         "title": "Earthquake in New Zealand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552156&episodeid=1718513&eventtype=EQ",
         "published": "2026-07-16T09:14:54",
@@ -156,19 +192,7 @@
         "full_text": "GDACS Alert: Earthquake in New Zealand\nEvent Type: EQ\nAlert Level: Green\nCountry: New Zealand\nDetails: Earthquake in New Zealand"
     },
     {
-        "guid": 2053837850610832109,
-        "title": "Tropical Cyclone ELIDA-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001282&episodeid=7&eventtype=TC",
-        "published": "2026-07-14T21:00:00",
-        "summary": "Tropical Cyclone ELIDA-26",
-        "event_type": "TC",
-        "alert_level": "Green",
-        "country": "",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone ELIDA-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone ELIDA-26"
-    },
-    {
-        "guid": 1922562987100345673,
+        "guid": 5394242555463719039,
         "title": "Earthquake in Off E. Coast Of N. Island, N.Z.",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552157&episodeid=1718523&eventtype=EQ",
         "published": "2026-07-16T08:57:58",
@@ -180,7 +204,7 @@
         "full_text": "GDACS Alert: Earthquake in Off E. Coast Of N. Island, N.Z.\nEvent Type: EQ\nAlert Level: Green\nCountry: Off E. Coast Of N. Island, N.Z.\nDetails: Earthquake in Off E. Coast Of N. Island, N.Z."
     },
     {
-        "guid": 3445578315713073585,
+        "guid": 6071193033061131483,
         "title": "Earthquake in Volcano Islands, Japan Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552150&episodeid=1718503&eventtype=EQ",
         "published": "2026-07-16T07:49:09",
@@ -192,7 +216,7 @@
         "full_text": "GDACS Alert: Earthquake in Volcano Islands, Japan Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Volcano Islands, Japan Region\nDetails: Earthquake in Volcano Islands, Japan Region"
     },
     {
-        "guid": -6852908817913952383,
+        "guid": -2388362317535099460,
         "title": "Earthquake in Mexico",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552151&episodeid=1718519&eventtype=EQ",
         "published": "2026-07-16T07:28:59",
@@ -204,7 +228,7 @@
         "full_text": "GDACS Alert: Earthquake in Mexico\nEvent Type: EQ\nAlert Level: Green\nCountry: Mexico\nDetails: Earthquake in Mexico"
     },
     {
-        "guid": -6481807779407650780,
+        "guid": 6548146833339932870,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552142&episodeid=1718509&eventtype=EQ",
         "published": "2026-07-16T05:55:44",
@@ -216,7 +240,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -4069698745467896901,
+        "guid": -1367561536159257179,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552115&episodeid=1718465&eventtype=EQ",
         "published": "2026-07-16T02:07:38",
@@ -228,7 +252,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": -5976556390887632222,
+        "guid": 816078540559317593,
         "title": "Eruption  Mayon",
         "link": "https://www.gdacs.org/report.aspx?eventid=1000144&episodeid=1&eventtype=VO",
         "published": "2026-07-16T01:59:00",
@@ -240,7 +264,7 @@
         "full_text": "GDACS Alert: Eruption  Mayon\nEvent Type: VO\nAlert Level: Orange\nCountry: Philippines\nDetails: Eruption  Mayon"
     },
     {
-        "guid": 5850162273138025775,
+        "guid": -6402333195991705870,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552103&episodeid=1718468&eventtype=EQ",
         "published": "2026-07-16T01:15:27",
@@ -252,7 +276,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -1525024001592476396,
+        "guid": 749804508325823373,
         "title": "Flood in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104026&episodeid=2&eventtype=FL",
         "published": "2026-07-12T01:00:00",
@@ -264,31 +288,7 @@
         "full_text": "GDACS Alert: Flood in Indonesia\nEvent Type: FL\nAlert Level: Green\nCountry: Indonesia\nDetails: Flood in Indonesia"
     },
     {
-        "guid": 8497286651033537555,
-        "title": "Flood in Austria",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1104023&episodeid=1&eventtype=FL",
-        "published": "2026-07-14T01:00:00",
-        "summary": "Flood in Austria",
-        "event_type": "FL",
-        "alert_level": "Green",
-        "country": "Austria",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Flood in Austria\nEvent Type: FL\nAlert Level: Green\nCountry: Austria\nDetails: Flood in Austria"
-    },
-    {
-        "guid": -6467206964647024299,
-        "title": "Flood in Czech Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1104024&episodeid=1&eventtype=FL",
-        "published": "2026-07-14T01:00:00",
-        "summary": "Flood in Czech Republic",
-        "event_type": "FL",
-        "alert_level": "Green",
-        "country": "Czech Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Flood in Czech Republic\nEvent Type: FL\nAlert Level: Green\nCountry: Czech Republic\nDetails: Flood in Czech Republic"
-    },
-    {
-        "guid": 5387240083313191693,
+        "guid": -9034489041823456309,
         "title": "Flood in Poland",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104025&episodeid=1&eventtype=FL",
         "published": "2026-07-14T01:00:00",
@@ -300,7 +300,31 @@
         "full_text": "GDACS Alert: Flood in Poland\nEvent Type: FL\nAlert Level: Green\nCountry: Poland\nDetails: Flood in Poland"
     },
     {
-        "guid": -4004731485469279166,
+        "guid": 255621618535901327,
+        "title": "Flood in Czech Republic",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1104024&episodeid=1&eventtype=FL",
+        "published": "2026-07-14T01:00:00",
+        "summary": "Flood in Czech Republic",
+        "event_type": "FL",
+        "alert_level": "Green",
+        "country": "Czech Republic",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Flood in Czech Republic\nEvent Type: FL\nAlert Level: Green\nCountry: Czech Republic\nDetails: Flood in Czech Republic"
+    },
+    {
+        "guid": -4387107313462070328,
+        "title": "Flood in Austria",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1104023&episodeid=1&eventtype=FL",
+        "published": "2026-07-14T01:00:00",
+        "summary": "Flood in Austria",
+        "event_type": "FL",
+        "alert_level": "Green",
+        "country": "Austria",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Flood in Austria\nEvent Type: FL\nAlert Level: Green\nCountry: Austria\nDetails: Flood in Austria"
+    },
+    {
+        "guid": -3868974110522593839,
         "title": "Flood in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104010&episodeid=2&eventtype=FL",
         "published": "2026-07-07T01:00:00",
@@ -312,7 +336,7 @@
         "full_text": "GDACS Alert: Flood in Chile\nEvent Type: FL\nAlert Level: Green\nCountry: Chile\nDetails: Flood in Chile"
     },
     {
-        "guid": 6493784785792578411,
+        "guid": 8994366617521684011,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552094&episodeid=1718444&eventtype=EQ",
         "published": "2026-07-16T00:01:08",
@@ -324,7 +348,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": -2949172163320933462,
+        "guid": -2194870278583402781,
         "title": "Earthquake in South Of Fiji Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552085&episodeid=1718432&eventtype=EQ",
         "published": "2026-07-15T22:57:11",
@@ -336,7 +360,7 @@
         "full_text": "GDACS Alert: Earthquake in South Of Fiji Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: South Of Fiji Islands\nDetails: Earthquake in South Of Fiji Islands"
     },
     {
-        "guid": -1861314124332563167,
+        "guid": -334359685193942692,
         "title": "Earthquake in Fiji Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552082&episodeid=1718427&eventtype=EQ",
         "published": "2026-07-15T21:58:50",
@@ -348,7 +372,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji Islands Region\nDetails: Earthquake in Fiji Islands Region"
     },
     {
-        "guid": -2761246873811124199,
+        "guid": -2108337823886531327,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552078&episodeid=1718422&eventtype=EQ",
         "published": "2026-07-15T21:33:38",
@@ -360,7 +384,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -7070952999356236398,
+        "guid": -5086004674019062286,
         "title": "Earthquake in South Of Alaska",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552050&episodeid=1718392&eventtype=EQ",
         "published": "2026-07-15T17:46:19",
@@ -372,7 +396,7 @@
         "full_text": "GDACS Alert: Earthquake in South Of Alaska\nEvent Type: EQ\nAlert Level: Green\nCountry: South Of Alaska\nDetails: Earthquake in South Of Alaska"
     },
     {
-        "guid": 2510903705400829020,
+        "guid": -3818840032036166485,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552032&episodeid=1718379&eventtype=EQ",
         "published": "2026-07-15T15:36:06",
@@ -384,7 +408,7 @@
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
     },
     {
-        "guid": 3760875510883897522,
+        "guid": -7910483406858281736,
         "title": "Earthquake in East Of South Sandwich Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552027&episodeid=1718368&eventtype=EQ",
         "published": "2026-07-15T14:51:37",
@@ -396,7 +420,7 @@
         "full_text": "GDACS Alert: Earthquake in East Of South Sandwich Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: East Of South Sandwich Islands\nDetails: Earthquake in East Of South Sandwich Islands"
     },
     {
-        "guid": 7065541508164964956,
+        "guid": 6027191376412295028,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1552000&episodeid=1718340&eventtype=EQ",
         "published": "2026-07-15T12:29:40",
@@ -408,7 +432,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": 8701770716880028046,
+        "guid": 1004768973608332987,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551944&episodeid=1718286&eventtype=EQ",
         "published": "2026-07-15T03:36:18",
@@ -420,7 +444,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": 6100210052914235180,
+        "guid": -590865493711246801,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551943&episodeid=1718277&eventtype=EQ",
         "published": "2026-07-15T02:48:45",
@@ -432,7 +456,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": 8429860621810878589,
+        "guid": -9143191184344398748,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551940&episodeid=1718274&eventtype=EQ",
         "published": "2026-07-15T02:42:18",
@@ -444,7 +468,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": 4221052423166652032,
+        "guid": -7079440873023979390,
         "title": "Earthquake in Peru",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551953&episodeid=1718289&eventtype=EQ",
         "published": "2026-07-15T02:40:26",
@@ -456,7 +480,7 @@
         "full_text": "GDACS Alert: Earthquake in Peru\nEvent Type: EQ\nAlert Level: Green\nCountry: Peru\nDetails: Earthquake in Peru"
     },
     {
-        "guid": 3937779452077919010,
+        "guid": 5522901527961575022,
         "title": "Earthquake in Chile",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551913&episodeid=1718245&eventtype=EQ",
         "published": "2026-07-15T01:09:20",
@@ -468,7 +492,7 @@
         "full_text": "GDACS Alert: Earthquake in Chile\nEvent Type: EQ\nAlert Level: Green\nCountry: Chile\nDetails: Earthquake in Chile"
     },
     {
-        "guid": 4823542042152685808,
+        "guid": 3051422481116545350,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551917&episodeid=1718248&eventtype=EQ",
         "published": "2026-07-15T01:05:37",
@@ -480,7 +504,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -1531391140047673949,
+        "guid": 6755030329098203788,
         "title": "Flood in Germany",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104019&episodeid=2&eventtype=FL",
         "published": "2026-07-13T01:00:00",
@@ -492,19 +516,7 @@
         "full_text": "GDACS Alert: Flood in Germany\nEvent Type: FL\nAlert Level: Green\nCountry: Germany\nDetails: Flood in Germany"
     },
     {
-        "guid": 941701839982740469,
-        "title": "Flood in United States",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1103888&episodeid=47&eventtype=FL",
-        "published": "2026-05-19T01:00:00",
-        "summary": "Flood in United States",
-        "event_type": "FL",
-        "alert_level": "Green",
-        "country": "United States",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Flood in United States\nEvent Type: FL\nAlert Level: Green\nCountry: United States\nDetails: Flood in United States"
-    },
-    {
-        "guid": -939394537155757134,
+        "guid": -4056757703745362803,
         "title": "Flood in Kyrgyzstan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104004&episodeid=2&eventtype=FL",
         "published": "2026-07-01T01:00:00",
@@ -516,7 +528,19 @@
         "full_text": "GDACS Alert: Flood in Kyrgyzstan\nEvent Type: FL\nAlert Level: Green\nCountry: Kyrgyzstan\nDetails: Flood in Kyrgyzstan"
     },
     {
-        "guid": -6776979416982522641,
+        "guid": -6177066661654475057,
+        "title": "Flood in United States",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1103888&episodeid=47&eventtype=FL",
+        "published": "2026-05-19T01:00:00",
+        "summary": "Flood in United States",
+        "event_type": "FL",
+        "alert_level": "Green",
+        "country": "United States",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Flood in United States\nEvent Type: FL\nAlert Level: Green\nCountry: United States\nDetails: Flood in United States"
+    },
+    {
+        "guid": 5204732694205922551,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551906&episodeid=1718236&eventtype=EQ",
         "published": "2026-07-15T00:35:28",
@@ -528,7 +552,7 @@
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
     },
     {
-        "guid": 7931461458855220765,
+        "guid": -3514576624469152689,
         "title": "Earthquake in Fiji",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551894&episodeid=1718222&eventtype=EQ",
         "published": "2026-07-14T22:50:12",
@@ -540,7 +564,7 @@
         "full_text": "GDACS Alert: Earthquake in Fiji\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji\nDetails: Earthquake in Fiji"
     },
     {
-        "guid": 7718672382406881238,
+        "guid": -2390296166930495461,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551878&episodeid=1718205&eventtype=EQ",
         "published": "2026-07-14T18:51:07",
@@ -552,7 +576,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 7082508104281331455,
+        "guid": 3557331239143752876,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551846&episodeid=1718171&eventtype=EQ",
         "published": "2026-07-14T15:49:41",
@@ -564,7 +588,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": -6777412721246195284,
+        "guid": 3218885343319861704,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1551973&episodeid=1718417&eventtype=EQ",
         "published": "2026-07-14T15:25:03",
@@ -574,29 +598,5 @@
         "country": "South Sandwich Islands Region",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
-    },
-    {
-        "guid": -2153437103051278511,
-        "title": "Earthquake in Dominican Republic",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1551841&episodeid=1718163&eventtype=EQ",
-        "published": "2026-07-14T15:20:13",
-        "summary": "Earthquake in Dominican Republic",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Dominican Republic",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Dominican Republic\nEvent Type: EQ\nAlert Level: Green\nCountry: Dominican Republic\nDetails: Earthquake in Dominican Republic"
-    },
-    {
-        "guid": -1196232026131250222,
-        "title": "Earthquake in Philippines",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1551813&episodeid=1718135&eventtype=EQ",
-        "published": "2026-07-14T13:15:08",
-        "summary": "Earthquake in Philippines",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Philippines",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     }
 ]
