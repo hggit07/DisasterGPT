@@ -1,6 +1,78 @@
 [
     {
-        "guid": 2461006207817000134,
+        "guid": -6180712461879455045,
+        "title": "Tropical Cyclone KARINA-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001314&episodeid=27&eventtype=TC",
+        "published": "2026-08-27T21:00:00",
+        "summary": "Tropical Cyclone KARINA-26",
+        "event_type": "TC",
+        "alert_level": "Green",
+        "country": "",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone KARINA-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone KARINA-26"
+    },
+    {
+        "guid": 1307581073959556594,
+        "title": "Tropical Cyclone LOWELL-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001315&episodeid=27&eventtype=TC",
+        "published": "2026-08-27T21:00:00",
+        "summary": "Tropical Cyclone LOWELL-26",
+        "event_type": "TC",
+        "alert_level": "Green",
+        "country": "",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone LOWELL-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone LOWELL-26"
+    },
+    {
+        "guid": -795302833126692470,
+        "title": "Tropical Cyclone MARIE-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001317&episodeid=8&eventtype=TC",
+        "published": "2026-09-01T09:00:00",
+        "summary": "Tropical Cyclone MARIE-26",
+        "event_type": "TC",
+        "alert_level": "Green",
+        "country": "Mexico",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone MARIE-26\nEvent Type: TC\nAlert Level: Green\nCountry: Mexico\nDetails: Tropical Cyclone MARIE-26"
+    },
+    {
+        "guid": -9041345119250565471,
+        "title": "Earthquake in Fiji",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1563293&episodeid=1730862&eventtype=EQ",
+        "published": "2026-09-03T00:09:28",
+        "summary": "Earthquake in Fiji",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Fiji",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Fiji\nEvent Type: EQ\nAlert Level: Green\nCountry: Fiji\nDetails: Earthquake in Fiji"
+    },
+    {
+        "guid": 2010009079421670438,
+        "title": "Tropical Cyclone KROVANH-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001318&episodeid=8&eventtype=TC",
+        "published": "2026-09-01T06:00:00",
+        "summary": "Tropical Cyclone KROVANH-26",
+        "event_type": "TC",
+        "alert_level": "Green",
+        "country": "Japan",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone KROVANH-26\nEvent Type: TC\nAlert Level: Green\nCountry: Japan\nDetails: Tropical Cyclone KROVANH-26"
+    },
+    {
+        "guid": 6329738395892932158,
+        "title": "Tropical Cyclone SAUDEL-26",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1001305&episodeid=47&eventtype=TC",
+        "published": "2026-08-18T12:00:00",
+        "summary": "Tropical Cyclone SAUDEL-26",
+        "event_type": "TC",
+        "alert_level": "Orange",
+        "country": "Japan, China, Northern Mariana Islands",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Tropical Cyclone SAUDEL-26\nEvent Type: TC\nAlert Level: Orange\nCountry: Japan, China, Northern Mariana Islands\nDetails: Tropical Cyclone SAUDEL-26"
+    },
+    {
+        "guid": 4213729510248486052,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563254&episodeid=1730821&eventtype=EQ",
         "published": "2026-09-02T23:46:57",
@@ -12,7 +84,7 @@
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
     },
     {
-        "guid": 1171850104896895564,
+        "guid": -8529169124336546997,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563234&episodeid=1730815&eventtype=EQ",
         "published": "2026-09-02T21:22:09",
@@ -24,31 +96,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": -7335008345604662637,
-        "title": "Tropical Cyclone KARINA-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001314&episodeid=26&eventtype=TC",
-        "published": "2026-08-27T21:00:00",
-        "summary": "Tropical Cyclone KARINA-26",
-        "event_type": "TC",
-        "alert_level": "Green",
-        "country": "",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone KARINA-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone KARINA-26"
-    },
-    {
-        "guid": 3592447475235144051,
-        "title": "Tropical Cyclone LOWELL-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001315&episodeid=26&eventtype=TC",
-        "published": "2026-08-27T21:00:00",
-        "summary": "Tropical Cyclone LOWELL-26",
-        "event_type": "TC",
-        "alert_level": "Green",
-        "country": "",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone LOWELL-26\nEvent Type: TC\nAlert Level: Green\nCountry: \nDetails: Tropical Cyclone LOWELL-26"
-    },
-    {
-        "guid": -248807547333882473,
+        "guid": -1235596203303391881,
         "title": "Tropical Cyclone EDOUARD-26",
         "link": "https://www.gdacs.org/report.aspx?eventid=1001316&episodeid=10&eventtype=TC",
         "published": "2026-08-31T15:00:00",
@@ -60,19 +108,7 @@
         "full_text": "GDACS Alert: Tropical Cyclone EDOUARD-26\nEvent Type: TC\nAlert Level: Green\nCountry: United States\nDetails: Tropical Cyclone EDOUARD-26"
     },
     {
-        "guid": -5287564458294040316,
-        "title": "Tropical Cyclone MARIE-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001317&episodeid=7&eventtype=TC",
-        "published": "2026-09-01T09:00:00",
-        "summary": "Tropical Cyclone MARIE-26",
-        "event_type": "TC",
-        "alert_level": "Green",
-        "country": "Mexico",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone MARIE-26\nEvent Type: TC\nAlert Level: Green\nCountry: Mexico\nDetails: Tropical Cyclone MARIE-26"
-    },
-    {
-        "guid": -2883873775117366890,
+        "guid": 3094008055690541424,
         "title": "Earthquake in Papua New Guinea",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563227&episodeid=1730790&eventtype=EQ",
         "published": "2026-09-02T20:04:33",
@@ -84,31 +120,7 @@
         "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
     },
     {
-        "guid": 4288671933089622384,
-        "title": "Tropical Cyclone KROVANH-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001318&episodeid=7&eventtype=TC",
-        "published": "2026-09-01T06:00:00",
-        "summary": "Tropical Cyclone KROVANH-26",
-        "event_type": "TC",
-        "alert_level": "Green",
-        "country": "Japan",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone KROVANH-26\nEvent Type: TC\nAlert Level: Green\nCountry: Japan\nDetails: Tropical Cyclone KROVANH-26"
-    },
-    {
-        "guid": -1732258226290223556,
-        "title": "Tropical Cyclone SAUDEL-26",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1001305&episodeid=46&eventtype=TC",
-        "published": "2026-08-18T12:00:00",
-        "summary": "Tropical Cyclone SAUDEL-26",
-        "event_type": "TC",
-        "alert_level": "Orange",
-        "country": "Japan, China, Northern Mariana Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Tropical Cyclone SAUDEL-26\nEvent Type: TC\nAlert Level: Orange\nCountry: Japan, China, Northern Mariana Islands\nDetails: Tropical Cyclone SAUDEL-26"
-    },
-    {
-        "guid": -3582660273086907725,
+        "guid": 6507958907555591236,
         "title": "Earthquake in Volcano Islands, Japan Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563178&episodeid=1730761&eventtype=EQ",
         "published": "2026-09-02T13:53:02",
@@ -120,7 +132,7 @@
         "full_text": "GDACS Alert: Earthquake in Volcano Islands, Japan Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Volcano Islands, Japan Region\nDetails: Earthquake in Volcano Islands, Japan Region"
     },
     {
-        "guid": 5029129649227417967,
+        "guid": -702917692333047216,
         "title": "Earthquake in Southern East Pacific Rise",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563166&episodeid=1730728&eventtype=EQ",
         "published": "2026-09-02T12:35:56",
@@ -132,7 +144,7 @@
         "full_text": "GDACS Alert: Earthquake in Southern East Pacific Rise\nEvent Type: EQ\nAlert Level: Green\nCountry: Southern East Pacific Rise\nDetails: Earthquake in Southern East Pacific Rise"
     },
     {
-        "guid": -8208699024713535029,
+        "guid": 6784294491880427462,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563165&episodeid=1730725&eventtype=EQ",
         "published": "2026-09-02T12:32:01",
@@ -144,7 +156,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 7170482673866861484,
+        "guid": -8518271141983979000,
         "title": "Earthquake in Mexico",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563163&episodeid=1730726&eventtype=EQ",
         "published": "2026-09-02T12:28:31",
@@ -156,7 +168,7 @@
         "full_text": "GDACS Alert: Earthquake in Mexico\nEvent Type: EQ\nAlert Level: Green\nCountry: Mexico\nDetails: Earthquake in Mexico"
     },
     {
-        "guid": 3542850095545921676,
+        "guid": -8668416898708293523,
         "title": "Earthquake in South Sandwich Islands Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563152&episodeid=1730710&eventtype=EQ",
         "published": "2026-09-02T10:54:02",
@@ -168,7 +180,7 @@
         "full_text": "GDACS Alert: Earthquake in South Sandwich Islands Region\nEvent Type: EQ\nAlert Level: Green\nCountry: South Sandwich Islands Region\nDetails: Earthquake in South Sandwich Islands Region"
     },
     {
-        "guid": 6728784615064553186,
+        "guid": 6608868556825195415,
         "title": "Earthquake in New Zealand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563109&episodeid=1730669&eventtype=EQ",
         "published": "2026-09-02T06:57:12",
@@ -180,7 +192,7 @@
         "full_text": "GDACS Alert: Earthquake in New Zealand\nEvent Type: EQ\nAlert Level: Green\nCountry: New Zealand\nDetails: Earthquake in New Zealand"
     },
     {
-        "guid": 8479616098310244545,
+        "guid": -4281245273708138907,
         "title": "Earthquake in New Zealand",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563103&episodeid=1730657&eventtype=EQ",
         "published": "2026-09-02T06:13:33",
@@ -192,7 +204,7 @@
         "full_text": "GDACS Alert: Earthquake in New Zealand\nEvent Type: EQ\nAlert Level: Green\nCountry: New Zealand\nDetails: Earthquake in New Zealand"
     },
     {
-        "guid": 492492802860665438,
+        "guid": 6384739867550858513,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563119&episodeid=1730678&eventtype=EQ",
         "published": "2026-09-02T06:06:40",
@@ -204,7 +216,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": -4966661169593706578,
+        "guid": -3059987786942177972,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563102&episodeid=1730661&eventtype=EQ",
         "published": "2026-09-02T05:40:52",
@@ -216,7 +228,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 8567144670705999534,
+        "guid": 4676586603117807908,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563095&episodeid=1730644&eventtype=EQ",
         "published": "2026-09-02T05:16:05",
@@ -228,7 +240,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 8225696083816935721,
+        "guid": -4503241000215727872,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563094&episodeid=1730649&eventtype=EQ",
         "published": "2026-09-02T05:14:00",
@@ -240,7 +252,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": 7574255549858908068,
+        "guid": 9145125441802794169,
         "title": "Earthquake in United States",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563091&episodeid=1730654&eventtype=EQ",
         "published": "2026-09-02T05:10:27",
@@ -252,7 +264,7 @@
         "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
     },
     {
-        "guid": -7674496932385769377,
+        "guid": -755674567594402099,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563128&episodeid=1730690&eventtype=EQ",
         "published": "2026-09-02T05:08:38",
@@ -264,7 +276,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -1418043121228257058,
+        "guid": -5848446541709143496,
         "title": "Flood in Cambodia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1104132&episodeid=2&eventtype=FL",
         "published": "2026-08-28T01:00:00",
@@ -276,7 +288,7 @@
         "full_text": "GDACS Alert: Flood in Cambodia\nEvent Type: FL\nAlert Level: Green\nCountry: Cambodia\nDetails: Flood in Cambodia"
     },
     {
-        "guid": -3783976478174702509,
+        "guid": 6471052946904815354,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1563052&episodeid=1730598&eventtype=EQ",
         "published": "2026-09-02T00:04:54",
@@ -288,7 +300,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": 8550932558205806994,
+        "guid": 2172565014861794523,
         "title": "Forest fires in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031474&episodeid=3&eventtype=WF",
         "published": "2026-08-18T00:00:00",
@@ -300,7 +312,7 @@
         "full_text": "GDACS Alert: Forest fires in Indonesia\nEvent Type: WF\nAlert Level: Green\nCountry: Indonesia\nDetails: Forest fires in Indonesia"
     },
     {
-        "guid": 4839352095926704367,
+        "guid": -7853215130172782245,
         "title": "Forest fires in Bolivia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031475&episodeid=2&eventtype=WF",
         "published": "2026-08-30T00:00:00",
@@ -312,7 +324,7 @@
         "full_text": "GDACS Alert: Forest fires in Bolivia\nEvent Type: WF\nAlert Level: Green\nCountry: Bolivia\nDetails: Forest fires in Bolivia"
     },
     {
-        "guid": 7913348782633863905,
+        "guid": -3041765839120867414,
         "title": "Forest fires in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031476&episodeid=3&eventtype=WF",
         "published": "2026-08-23T00:00:00",
@@ -324,7 +336,7 @@
         "full_text": "GDACS Alert: Forest fires in Indonesia\nEvent Type: WF\nAlert Level: Green\nCountry: Indonesia\nDetails: Forest fires in Indonesia"
     },
     {
-        "guid": 2864250133676518040,
+        "guid": -3430946018816020963,
         "title": "Forest fires in Brazil",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031480&episodeid=2&eventtype=WF",
         "published": "2026-09-01T00:00:00",
@@ -336,7 +348,7 @@
         "full_text": "GDACS Alert: Forest fires in Brazil\nEvent Type: WF\nAlert Level: Green\nCountry: Brazil\nDetails: Forest fires in Brazil"
     },
     {
-        "guid": 4911131644987717059,
+        "guid": 2511096568829282031,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031481&episodeid=1&eventtype=WF",
         "published": "2026-08-30T00:00:00",
@@ -348,7 +360,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": 603296097836440778,
+        "guid": -3062333687797071398,
         "title": "Forest fires in Russian Federation",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031482&episodeid=3&eventtype=WF",
         "published": "2026-08-30T00:00:00",
@@ -360,7 +372,7 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": 69544633223143748,
+        "guid": 8541576295852006922,
         "title": "Forest fires in Brazil",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031483&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -372,7 +384,7 @@
         "full_text": "GDACS Alert: Forest fires in Brazil\nEvent Type: WF\nAlert Level: Green\nCountry: Brazil\nDetails: Forest fires in Brazil"
     },
     {
-        "guid": -6175614734327896434,
+        "guid": 7445022914987315935,
         "title": "Forest fires in Australia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031484&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -384,7 +396,7 @@
         "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
     },
     {
-        "guid": -3838028182078075197,
+        "guid": 5372803940336220273,
         "title": "Forest fires in The Democratic Republic of Congo",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031477&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -396,7 +408,7 @@
         "full_text": "GDACS Alert: Forest fires in The Democratic Republic of Congo\nEvent Type: WF\nAlert Level: Green\nCountry: The Democratic Republic of Congo\nDetails: Forest fires in The Democratic Republic of Congo"
     },
     {
-        "guid": 5598691894514892065,
+        "guid": 3599524441744489565,
         "title": "Forest fires in Zambia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031478&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -408,7 +420,7 @@
         "full_text": "GDACS Alert: Forest fires in Zambia\nEvent Type: WF\nAlert Level: Green\nCountry: Zambia\nDetails: Forest fires in Zambia"
     },
     {
-        "guid": 4067533802541209353,
+        "guid": 4440706577050275017,
         "title": "Forest fires in Angola",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031479&episodeid=2&eventtype=WF",
         "published": "2026-08-25T00:00:00",
@@ -420,7 +432,7 @@
         "full_text": "GDACS Alert: Forest fires in Angola\nEvent Type: WF\nAlert Level: Green\nCountry: Angola\nDetails: Forest fires in Angola"
     },
     {
-        "guid": -972520171581341350,
+        "guid": 1668766130342415046,
         "title": "Forest fires in Zambia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031485&episodeid=2&eventtype=WF",
         "published": "2026-08-26T00:00:00",
@@ -432,7 +444,7 @@
         "full_text": "GDACS Alert: Forest fires in Zambia\nEvent Type: WF\nAlert Level: Green\nCountry: Zambia\nDetails: Forest fires in Zambia"
     },
     {
-        "guid": 4067533802541209353,
+        "guid": 4440706577050275017,
         "title": "Forest fires in Angola",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031486&episodeid=2&eventtype=WF",
         "published": "2026-08-25T00:00:00",
@@ -444,9 +456,9 @@
         "full_text": "GDACS Alert: Forest fires in Angola\nEvent Type: WF\nAlert Level: Green\nCountry: Angola\nDetails: Forest fires in Angola"
     },
     {
-        "guid": 7126391084575479525,
+        "guid": -3899471716133511026,
         "title": "Forest fires in Russian Federation",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1031487&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1031487&episodeid=3&eventtype=WF",
         "published": "2026-08-24T00:00:00",
         "summary": "Forest fires in Russian Federation",
         "event_type": "WF",
@@ -456,9 +468,9 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": -2806022703188520923,
+        "guid": 3873344736969703778,
         "title": "Forest fires in Russian Federation",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1031488&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1031488&episodeid=3&eventtype=WF",
         "published": "2026-08-23T00:00:00",
         "summary": "Forest fires in Russian Federation",
         "event_type": "WF",
@@ -468,9 +480,9 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": -2806022703188520923,
+        "guid": 3873344736969703778,
         "title": "Forest fires in Russian Federation",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1031489&episodeid=3&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1031489&episodeid=4&eventtype=WF",
         "published": "2026-08-23T00:00:00",
         "summary": "Forest fires in Russian Federation",
         "event_type": "WF",
@@ -480,9 +492,9 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": 2863375182741800988,
+        "guid": -1506060661930340900,
         "title": "Forest fires in Russian Federation",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1031490&episodeid=2&eventtype=WF",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1031490&episodeid=3&eventtype=WF",
         "published": "2026-08-22T00:00:00",
         "summary": "Forest fires in Russian Federation",
         "event_type": "WF",
@@ -492,7 +504,7 @@
         "full_text": "GDACS Alert: Forest fires in Russian Federation\nEvent Type: WF\nAlert Level: Green\nCountry: Russian Federation\nDetails: Forest fires in Russian Federation"
     },
     {
-        "guid": 1675828239241032467,
+        "guid": 8047010977164778663,
         "title": "Forest fires in Zambia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031491&episodeid=2&eventtype=WF",
         "published": "2026-08-29T00:00:00",
@@ -504,7 +516,7 @@
         "full_text": "GDACS Alert: Forest fires in Zambia\nEvent Type: WF\nAlert Level: Green\nCountry: Zambia\nDetails: Forest fires in Zambia"
     },
     {
-        "guid": 4344574495319974898,
+        "guid": 8015862206470259773,
         "title": "Forest fires in Mozambique",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031492&episodeid=2&eventtype=WF",
         "published": "2026-08-29T00:00:00",
@@ -516,7 +528,7 @@
         "full_text": "GDACS Alert: Forest fires in Mozambique\nEvent Type: WF\nAlert Level: Green\nCountry: Mozambique\nDetails: Forest fires in Mozambique"
     },
     {
-        "guid": 9187046792147778888,
+        "guid": -3375385333376571412,
         "title": "Forest fires in Madagascar",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031493&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -528,7 +540,7 @@
         "full_text": "GDACS Alert: Forest fires in Madagascar\nEvent Type: WF\nAlert Level: Green\nCountry: Madagascar\nDetails: Forest fires in Madagascar"
     },
     {
-        "guid": 5875255846117826026,
+        "guid": 1147761853617113180,
         "title": "Forest fires in Mozambique",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031494&episodeid=2&eventtype=WF",
         "published": "2026-08-28T00:00:00",
@@ -540,7 +552,7 @@
         "full_text": "GDACS Alert: Forest fires in Mozambique\nEvent Type: WF\nAlert Level: Green\nCountry: Mozambique\nDetails: Forest fires in Mozambique"
     },
     {
-        "guid": -972520171581341350,
+        "guid": 1668766130342415046,
         "title": "Forest fires in Zambia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031495&episodeid=2&eventtype=WF",
         "published": "2026-08-26T00:00:00",
@@ -552,7 +564,7 @@
         "full_text": "GDACS Alert: Forest fires in Zambia\nEvent Type: WF\nAlert Level: Green\nCountry: Zambia\nDetails: Forest fires in Zambia"
     },
     {
-        "guid": 4461513062559052518,
+        "guid": -263778691363647870,
         "title": "Forest fires in Mozambique",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031496&episodeid=2&eventtype=WF",
         "published": "2026-08-24T00:00:00",
@@ -564,7 +576,7 @@
         "full_text": "GDACS Alert: Forest fires in Mozambique\nEvent Type: WF\nAlert Level: Green\nCountry: Mozambique\nDetails: Forest fires in Mozambique"
     },
     {
-        "guid": 5731866792834985280,
+        "guid": -5539684056414619906,
         "title": "Forest fires in Uganda",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031497&episodeid=2&eventtype=WF",
         "published": "2026-08-23T00:00:00",
@@ -576,7 +588,7 @@
         "full_text": "GDACS Alert: Forest fires in Uganda\nEvent Type: WF\nAlert Level: Green\nCountry: Uganda\nDetails: Forest fires in Uganda"
     },
     {
-        "guid": -4679077624674475334,
+        "guid": -3393857144236499372,
         "title": "Forest fires in Mozambique",
         "link": "https://www.gdacs.org/report.aspx?eventid=1031498&episodeid=2&eventtype=WF",
         "published": "2026-08-23T00:00:00",
@@ -586,17 +598,5 @@
         "country": "Mozambique",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Forest fires in Mozambique\nEvent Type: WF\nAlert Level: Green\nCountry: Mozambique\nDetails: Forest fires in Mozambique"
-    },
-    {
-        "guid": -5597061693252204031,
-        "title": "Forest fires in Namibia",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1031448&episodeid=3&eventtype=WF",
-        "published": "2026-08-31T00:00:00",
-        "summary": "Forest fires in Namibia",
-        "event_type": "WF",
-        "alert_level": "Green",
-        "country": "Namibia",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Forest fires in Namibia\nEvent Type: WF\nAlert Level: Green\nCountry: Namibia\nDetails: Forest fires in Namibia"
     }
 ]
