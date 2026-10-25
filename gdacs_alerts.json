@@ -1,6 +1,102 @@
 [
     {
-        "guid": -1645417655545427563,
+        "guid": 5759366548550129596,
+        "title": "Earthquake in Peru",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573745&episodeid=1742548&eventtype=EQ",
+        "published": "2026-10-25T07:11:49",
+        "summary": "Earthquake in Peru",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Peru",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Peru\nEvent Type: EQ\nAlert Level: Green\nCountry: Peru\nDetails: Earthquake in Peru"
+    },
+    {
+        "guid": 6337790866004670970,
+        "title": "Earthquake in Japan",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573737&episodeid=1742540&eventtype=EQ",
+        "published": "2026-10-25T06:04:22",
+        "summary": "Earthquake in Japan",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Japan",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
+    },
+    {
+        "guid": 5058150563022475797,
+        "title": "Earthquake in Greece",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573730&episodeid=1742533&eventtype=EQ",
+        "published": "2026-10-25T05:15:44",
+        "summary": "Earthquake in Greece",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Greece",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Greece\nEvent Type: EQ\nAlert Level: Green\nCountry: Greece\nDetails: Earthquake in Greece"
+    },
+    {
+        "guid": 1234712690794449350,
+        "title": "Earthquake in Papua New Guinea",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573720&episodeid=1742519&eventtype=EQ",
+        "published": "2026-10-25T03:29:10",
+        "summary": "Earthquake in Papua New Guinea",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Papua New Guinea",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Papua New Guinea\nEvent Type: EQ\nAlert Level: Green\nCountry: Papua New Guinea\nDetails: Earthquake in Papua New Guinea"
+    },
+    {
+        "guid": 5012588685243510233,
+        "title": "Earthquake in Bonin Islands, Japan Region",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573715&episodeid=1742513&eventtype=EQ",
+        "published": "2026-10-25T02:36:32",
+        "summary": "Earthquake in Bonin Islands, Japan Region",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Bonin Islands, Japan Region",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Bonin Islands, Japan Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Bonin Islands, Japan Region\nDetails: Earthquake in Bonin Islands, Japan Region"
+    },
+    {
+        "guid": -4934848915375710138,
+        "title": "Earthquake in Vanuatu",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573712&episodeid=1742527&eventtype=EQ",
+        "published": "2026-10-25T02:24:02",
+        "summary": "Earthquake in Vanuatu",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Vanuatu",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
+    },
+    {
+        "guid": -480909020444715475,
+        "title": "Earthquake in Bonin Islands, Japan Region",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573709&episodeid=1742505&eventtype=EQ",
+        "published": "2026-10-25T02:09:23",
+        "summary": "Earthquake in Bonin Islands, Japan Region",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Bonin Islands, Japan Region",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Bonin Islands, Japan Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Bonin Islands, Japan Region\nDetails: Earthquake in Bonin Islands, Japan Region"
+    },
+    {
+        "guid": 2212568043374469968,
+        "title": "Earthquake in Vanuatu",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1573710&episodeid=1742511&eventtype=EQ",
+        "published": "2026-10-25T02:06:10",
+        "summary": "Earthquake in Vanuatu",
+        "event_type": "EQ",
+        "alert_level": "Green",
+        "country": "Vanuatu",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
+    },
+    {
+        "guid": 7906890883351888441,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573708&episodeid=1742501&eventtype=EQ",
         "published": "2026-10-25T01:46:23",
@@ -12,7 +108,283 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": 2785939641012225436,
+        "guid": -3035381867646298981,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033145&episodeid=3&eventtype=WF",
+        "published": "2026-10-23T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -3035381867646298981,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033146&episodeid=4&eventtype=WF",
+        "published": "2026-10-23T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -3035381867646298981,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033165&episodeid=2&eventtype=WF",
+        "published": "2026-10-23T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 5816146024729405560,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033167&episodeid=2&eventtype=WF",
+        "published": "2026-10-22T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 1858431563867967116,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033168&episodeid=2&eventtype=WF",
+        "published": "2026-10-21T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033170&episodeid=2&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -3035381867646298981,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033133&episodeid=5&eventtype=WF",
+        "published": "2026-10-23T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 5816146024729405560,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033135&episodeid=5&eventtype=WF",
+        "published": "2026-10-22T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 5816146024729405560,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033139&episodeid=5&eventtype=WF",
+        "published": "2026-10-22T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 5816146024729405560,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033140&episodeid=5&eventtype=WF",
+        "published": "2026-10-22T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 1858431563867967116,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033141&episodeid=5&eventtype=WF",
+        "published": "2026-10-21T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -8486041181629227241,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1032996&episodeid=15&eventtype=WF",
+        "published": "2026-10-19T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033003&episodeid=20&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033013&episodeid=17&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033020&episodeid=12&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033022&episodeid=8&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -8486041181629227241,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033053&episodeid=10&eventtype=WF",
+        "published": "2026-10-19T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -8526194120378458003,
+        "title": "Forest fires in Russia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033087&episodeid=4&eventtype=WF",
+        "published": "2026-10-22T00:00:00",
+        "summary": "Forest fires in Russia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Russia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Russia\nEvent Type: WF\nAlert Level: Green\nCountry: Russia\nDetails: Forest fires in Russia"
+    },
+    {
+        "guid": 1858431563867967116,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033088&episodeid=8&eventtype=WF",
+        "published": "2026-10-21T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 1858431563867967116,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033090&episodeid=6&eventtype=WF",
+        "published": "2026-10-21T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 1858431563867967116,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033092&episodeid=10&eventtype=WF",
+        "published": "2026-10-21T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033093&episodeid=4&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": 3778743056543106902,
+        "title": "Forest fires in Australia",
+        "link": "https://www.gdacs.org/report.aspx?eventid=1033095&episodeid=7&eventtype=WF",
+        "published": "2026-10-20T00:00:00",
+        "summary": "Forest fires in Australia",
+        "event_type": "WF",
+        "alert_level": "Green",
+        "country": "Australia",
+        "severity": "Unknown",
+        "full_text": "GDACS Alert: Forest fires in Australia\nEvent Type: WF\nAlert Level: Green\nCountry: Australia\nDetails: Forest fires in Australia"
+    },
+    {
+        "guid": -357169523904373926,
         "title": "Earthquake in Japan",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573690&episodeid=1742484&eventtype=EQ",
         "published": "2026-10-24T23:59:36",
@@ -24,7 +396,7 @@
         "full_text": "GDACS Alert: Earthquake in Japan\nEvent Type: EQ\nAlert Level: Green\nCountry: Japan\nDetails: Earthquake in Japan"
     },
     {
-        "guid": 282913939566001449,
+        "guid": 7499094264926400648,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573691&episodeid=1742483&eventtype=EQ",
         "published": "2026-10-24T23:44:57",
@@ -36,7 +408,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": 2916868350295209746,
+        "guid": -2318339173364960664,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573687&episodeid=1742478&eventtype=EQ",
         "published": "2026-10-24T23:39:07",
@@ -48,7 +420,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": -6993850903117491658,
+        "guid": 5681819489211276632,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573683&episodeid=1742471&eventtype=EQ",
         "published": "2026-10-24T22:47:08",
@@ -60,7 +432,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": -3752166968884828595,
+        "guid": -8528979781939913878,
         "title": "Earthquake in Indonesia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573678&episodeid=1742473&eventtype=EQ",
         "published": "2026-10-24T21:41:51",
@@ -72,7 +444,7 @@
         "full_text": "GDACS Alert: Earthquake in Indonesia\nEvent Type: EQ\nAlert Level: Green\nCountry: Indonesia\nDetails: Earthquake in Indonesia"
     },
     {
-        "guid": 1882694731962798801,
+        "guid": 3418375817813309196,
         "title": "Earthquake in Russia",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573671&episodeid=1742459&eventtype=EQ",
         "published": "2026-10-24T20:35:04",
@@ -84,7 +456,7 @@
         "full_text": "GDACS Alert: Earthquake in Russia\nEvent Type: EQ\nAlert Level: Green\nCountry: Russia\nDetails: Earthquake in Russia"
     },
     {
-        "guid": -8448519340429709749,
+        "guid": -8896148258064726985,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573664&episodeid=1742450&eventtype=EQ",
         "published": "2026-10-24T19:18:20",
@@ -96,7 +468,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": 3831785406975824620,
+        "guid": 2243522702501018609,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573663&episodeid=1742447&eventtype=EQ",
         "published": "2026-10-24T19:07:15",
@@ -108,7 +480,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": -7786055357008629901,
+        "guid": -8697166528576153620,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573651&episodeid=1742436&eventtype=EQ",
         "published": "2026-10-24T16:54:15",
@@ -120,7 +492,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
     },
     {
-        "guid": -1894859129667200570,
+        "guid": 2763953752204822777,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573649&episodeid=1742432&eventtype=EQ",
         "published": "2026-10-24T15:45:47",
@@ -132,7 +504,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": -6437503454150202380,
+        "guid": 731879308119137252,
         "title": "Earthquake in Bouvet Island Region",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573640&episodeid=1742420&eventtype=EQ",
         "published": "2026-10-24T15:24:19",
@@ -144,7 +516,7 @@
         "full_text": "GDACS Alert: Earthquake in Bouvet Island Region\nEvent Type: EQ\nAlert Level: Green\nCountry: Bouvet Island Region\nDetails: Earthquake in Bouvet Island Region"
     },
     {
-        "guid": 8274941089779709845,
+        "guid": -3419627884152606631,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573643&episodeid=1742423&eventtype=EQ",
         "published": "2026-10-24T15:19:25",
@@ -156,7 +528,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": 7550888113374175322,
+        "guid": 283013321870339404,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573648&episodeid=1742430&eventtype=EQ",
         "published": "2026-10-24T15:07:40",
@@ -168,7 +540,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": -4946006713717347113,
+        "guid": 3249571761373617215,
         "title": "Earthquake in Vanuatu Islands",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573635&episodeid=1742412&eventtype=EQ",
         "published": "2026-10-24T13:53:00",
@@ -180,7 +552,7 @@
         "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
     },
     {
-        "guid": 2868655457085541122,
+        "guid": -767837444511876913,
         "title": "Earthquake in China",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573645&episodeid=1742426&eventtype=EQ",
         "published": "2026-10-24T13:26:34",
@@ -192,7 +564,7 @@
         "full_text": "GDACS Alert: Earthquake in China\nEvent Type: EQ\nAlert Level: Green\nCountry: China\nDetails: Earthquake in China"
     },
     {
-        "guid": 904823371946483660,
+        "guid": -8209263305782385666,
         "title": "Earthquake in Philippines",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573606&episodeid=1742382&eventtype=EQ",
         "published": "2026-10-24T11:48:08",
@@ -204,7 +576,7 @@
         "full_text": "GDACS Alert: Earthquake in Philippines\nEvent Type: EQ\nAlert Level: Green\nCountry: Philippines\nDetails: Earthquake in Philippines"
     },
     {
-        "guid": 1577382070040106333,
+        "guid": 2696218098357161310,
         "title": "Earthquake in Eastern Gulf Of Aden",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573603&episodeid=1742379&eventtype=EQ",
         "published": "2026-10-24T11:20:27",
@@ -216,7 +588,7 @@
         "full_text": "GDACS Alert: Earthquake in Eastern Gulf Of Aden\nEvent Type: EQ\nAlert Level: Green\nCountry: Eastern Gulf Of Aden\nDetails: Earthquake in Eastern Gulf Of Aden"
     },
     {
-        "guid": -8152017518641111147,
+        "guid": -4641115351524313317,
         "title": "Earthquake in Vanuatu",
         "link": "https://www.gdacs.org/report.aspx?eventid=1573601&episodeid=1742376&eventtype=EQ",
         "published": "2026-10-24T11:14:00",
@@ -226,377 +598,5 @@
         "country": "Vanuatu",
         "severity": "Unknown",
         "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 4397149051808007378,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573585&episodeid=1742358&eventtype=EQ",
-        "published": "2026-10-24T09:38:49",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 4875295131167831991,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573581&episodeid=1742351&eventtype=EQ",
-        "published": "2026-10-24T09:07:00",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 4529371233642077463,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573578&episodeid=1742347&eventtype=EQ",
-        "published": "2026-10-24T08:56:28",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -6629117278401404480,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573582&episodeid=1742354&eventtype=EQ",
-        "published": "2026-10-24T08:45:55",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -4778359840435944563,
-        "title": "Earthquake in China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573572&episodeid=1742342&eventtype=EQ",
-        "published": "2026-10-24T08:39:53",
-        "summary": "Earthquake in China",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "China",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in China\nEvent Type: EQ\nAlert Level: Green\nCountry: China\nDetails: Earthquake in China"
-    },
-    {
-        "guid": -93905051310636205,
-        "title": "Earthquake in United States",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573571&episodeid=1742337&eventtype=EQ",
-        "published": "2026-10-24T08:33:48",
-        "summary": "Earthquake in United States",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "United States",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in United States\nEvent Type: EQ\nAlert Level: Green\nCountry: United States\nDetails: Earthquake in United States"
-    },
-    {
-        "guid": 1739803147234399180,
-        "title": "Earthquake in China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573577&episodeid=1742350&eventtype=EQ",
-        "published": "2026-10-24T08:29:20",
-        "summary": "Earthquake in China",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "China",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in China\nEvent Type: EQ\nAlert Level: Green\nCountry: China\nDetails: Earthquake in China"
-    },
-    {
-        "guid": 9206509556503872183,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573574&episodeid=1742344&eventtype=EQ",
-        "published": "2026-10-24T08:28:02",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -1588982867729889069,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573570&episodeid=1742334&eventtype=EQ",
-        "published": "2026-10-24T08:22:46",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -8082188642202433887,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573580&episodeid=1742349&eventtype=EQ",
-        "published": "2026-10-24T08:20:01",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 1034715468515969075,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573562&episodeid=1742325&eventtype=EQ",
-        "published": "2026-10-24T06:58:03",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 869510528732632503,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573556&episodeid=1742317&eventtype=EQ",
-        "published": "2026-10-24T06:52:04",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -6171358321992003333,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573554&episodeid=1742315&eventtype=EQ",
-        "published": "2026-10-24T06:43:09",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 7990080473955826004,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573557&episodeid=1742319&eventtype=EQ",
-        "published": "2026-10-24T06:20:56",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 2231405351906124872,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573551&episodeid=1742310&eventtype=EQ",
-        "published": "2026-10-24T06:04:16",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -1958181694928766774,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573548&episodeid=1742306&eventtype=EQ",
-        "published": "2026-10-24T05:37:46",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 4836527438226461772,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573547&episodeid=1742303&eventtype=EQ",
-        "published": "2026-10-24T05:35:54",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -9036554403970461149,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573536&episodeid=1742293&eventtype=EQ",
-        "published": "2026-10-24T05:23:40",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 5043126394167760893,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573537&episodeid=1742291&eventtype=EQ",
-        "published": "2026-10-24T05:10:34",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 4437798522918014894,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573534&episodeid=1742286&eventtype=EQ",
-        "published": "2026-10-24T04:49:21",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -5779826667481681036,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573533&episodeid=1742284&eventtype=EQ",
-        "published": "2026-10-24T04:44:45",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 2675667996841397456,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573531&episodeid=1742282&eventtype=EQ",
-        "published": "2026-10-24T04:19:38",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 4906013412660630313,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573528&episodeid=1742278&eventtype=EQ",
-        "published": "2026-10-24T04:12:05",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -6395292698735651415,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573526&episodeid=1742275&eventtype=EQ",
-        "published": "2026-10-24T04:05:36",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": -4113229417406637912,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573525&episodeid=1742273&eventtype=EQ",
-        "published": "2026-10-24T03:51:35",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": 3997939727214578392,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573520&episodeid=1742267&eventtype=EQ",
-        "published": "2026-10-24T03:17:55",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 618622357079188703,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573518&episodeid=1742265&eventtype=EQ",
-        "published": "2026-10-24T03:08:45",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -3063696533538992620,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573517&episodeid=1742262&eventtype=EQ",
-        "published": "2026-10-24T02:35:57",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -2628301604703918708,
-        "title": "Earthquake in Vanuatu",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573515&episodeid=1742259&eventtype=EQ",
-        "published": "2026-10-24T02:31:28",
-        "summary": "Earthquake in Vanuatu",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu\nDetails: Earthquake in Vanuatu"
-    },
-    {
-        "guid": -1716636435561582368,
-        "title": "Earthquake in Vanuatu Islands",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573493&episodeid=1742235&eventtype=EQ",
-        "published": "2026-10-24T00:27:44",
-        "summary": "Earthquake in Vanuatu Islands",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "Vanuatu Islands",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in Vanuatu Islands\nEvent Type: EQ\nAlert Level: Green\nCountry: Vanuatu Islands\nDetails: Earthquake in Vanuatu Islands"
-    },
-    {
-        "guid": 2995387873140305188,
-        "title": "Earthquake in China",
-        "link": "https://www.gdacs.org/report.aspx?eventid=1573484&episodeid=1742225&eventtype=EQ",
-        "published": "2026-10-24T00:07:56",
-        "summary": "Earthquake in China",
-        "event_type": "EQ",
-        "alert_level": "Green",
-        "country": "China",
-        "severity": "Unknown",
-        "full_text": "GDACS Alert: Earthquake in China\nEvent Type: EQ\nAlert Level: Green\nCountry: China\nDetails: Earthquake in China"
     }
 ]
